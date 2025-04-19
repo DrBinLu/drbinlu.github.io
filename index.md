@@ -44,12 +44,12 @@ I’ve been lucky to work with great teams, receive fellowships, and share this 
 <ul>
   <li>
     <a href="https://www.anu.edu.au/news/all-news/anu-experts-to-power-path-to-all-electric-act" target="_blank">
-      ANU experts to power path to all-electric ACT — ANU News
+      ANU experts to power path to all-electric ACT
     </a>
   </li>
   <li>
     <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
-      ANU researcher awarded international hydrogen research fellowship — ANU ICEDS
+      ANU researcher awarded international hydrogen research fellowship
     </a>
   </li>
 </ul>
