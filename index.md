@@ -30,12 +30,15 @@ I’ve been lucky to work with great teams, receive fellowships, and share this 
 
 ## 🐦 Recent X Posts
 
-<a class="twitter-timeline" 
-   data-height="600" 
-   href="https://twitter.com/DrBinLu?ref_src=twsrc%5Etfw">
+<a class="twitter-timeline" href="https://twitter.com/DrBinLu?ref_src=twsrc%5Etfw">Tweets by DrBinLu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
    Tweets by DrBinLu
 </a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
 
 ---
 
