@@ -1,2 +1,3 @@
-# drbinlu.github.io
-DrBinLu.com
+# DrBinLu.com
+
+Sharing research, clean energy news & climate insights
