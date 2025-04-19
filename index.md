@@ -3,6 +3,8 @@ layout: default
 title: ""
 ---
 
+<img src="Bin Lu.jpg" alt="Dr Bin Lu" width="200" style="border-radius: 50%;">
+
 # Dr Bin Lu
 
 **Renewable Energy Researcher**  
