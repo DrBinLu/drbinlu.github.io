@@ -3,6 +3,14 @@ layout: default
 title: Home
 ---
 
+# Dr Bin Lu
+
+**Renewable Energy Researcher**  
+*Grid integration • Energy storage • Geographic Information System*
+
+---
+
+
 
 # About Me
 
