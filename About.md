@@ -14,3 +14,17 @@ Hi, I’m a Senior Research Fellow at the Australian National University, where 
 My research focuses on energy system modelling, renewable resource assessment, and storage solutions. I developed the STORES Geographic Information System algorithm to identify off-river hydro storage across elevated landscapes — work that earned the Eureka Prize for Environmental Research. I also created the FIRM energy modelling tool, widely used across the Asia-Pacific to plan reliable, 100% renewable futures.
 
 I’ve been lucky to work with great teams, receive fellowships, and share this research with millions of people around the world.
+
+---
+
+## 🏅 Prizes, Honours & Awards
+
+- Eureka Prize for Environmental Research (2018) with Andrew Blakers and Matthew Stocks
+- Australian Government International Hydrogen Research Fellowship (2023–2024)
+- ANU Zero-Carbon Energy for the Asia-Pacific Grand Challenge Best Researcher Award (2023)
+- ANU College of Engineering & Computer Science Remote Teaching and Student Experience Award (2021)
+- ANU Grand Challenge Research Fellow (2018–2023)
+- Australian Centre for Advanced Photovoltaics Postdoctoral Fellowship (2019–2022)
+- Australian Government Research Training Program Scholarship (2017–2018)
+- Australian Postgraduate Award (2016)
+- ANU Postgraduate Research Scholarship (2016–2018)
