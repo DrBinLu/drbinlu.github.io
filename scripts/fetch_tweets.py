@@ -1,24 +1,21 @@
-import feedparser
+import tweepy
+import os
 
-FEED_URL = "https://nitter.poast.org/DrBinLu/rss"
-OUTPUT_PATH = "tweets.md"
-NUM_TWEETS = 3
+api_key = os.getenv("TWITTER_API_KEY")
+api_secret = os.getenv("TWITTER_API_SECRET")
+access_token = os.getenv("TWITTER_ACCESS_TOKEN")
+access_secret = os.getenv("TWITTER_ACCESS_SECRET")
 
-print(f"Fetching feed from: {FEED_URL}")
-feed = feedparser.parse(FEED_URL)
+auth = tweepy.OAuth1UserHandler(api_key, api_secret, access_token, access_secret)
+api = tweepy.API(auth)
 
-if not feed.entries:
-    print("❌ No entries found in feed.")
-    with open(OUTPUT_PATH, "w") as f:
-        f.write("## 🐦 Recent on X\n\n")
-        f.write("*Unable to fetch tweets right now.*\n")
-        f.write(f"[Try opening the feed manually]({FEED_URL})\n")
-    exit(0)
+screen_name = "DrBinLu"
+tweet_count = 3
+tweets = api.user_timeline(screen_name=screen_name, count=tweet_count, tweet_mode="extended", exclude_replies=True, include_rts=False)
 
-print(f"✅ Retrieved {len(feed.entries)} entries.")
-with open(OUTPUT_PATH, "w") as f:
+with open("tweets.md", "w", encoding="utf-8") as f:
     f.write("## 🐦 Recent on X\n\n")
-    for entry in feed.entries[:NUM_TWEETS]:
-        title = entry.title.replace("\n", " ").strip()
-        link = entry.link
-        f.write(f"- [{title}]({link})\n")
+    for tweet in tweets:
+        url = f"https://x.com/{screen_name}/status/{tweet.id}"
+        text = tweet.full_text.replace("\n", " ").strip()
+        f.write(f"- [{text}]({url})\n")
