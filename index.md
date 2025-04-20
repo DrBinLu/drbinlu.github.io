@@ -34,7 +34,8 @@ title: ""
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <img src="/images/act-electrification.jpg" alt="All-electric ACT" width="120" style="border-radius: 8px;">
+    <img src="/images/act-electrification.jpg" alt="All-electric ACT"
+         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <div>
       <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
         <strong>ANU experts to power path to all-electric ACT</strong>
@@ -43,7 +44,8 @@ title: ""
   </div>
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship" width="120" style="border-radius: 8px;">
+    <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
+         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
     <div>
       <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
         <strong>ANU researcher awarded international hydrogen research fellowship</strong>
@@ -51,7 +53,18 @@ title: ""
     </div>
   </div>
 
+  <div style="display: flex; gap: 15px; align-items: flex-start;">
+    <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
+         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <div>
+      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
+        <strong>ICEDS Research Snapshots: Dr Bin Lu, Industrial Hydrogen Storage</strong>
+      </a>
+    </div>
+  </div>
+
 </div>
+
 
 
 ---
