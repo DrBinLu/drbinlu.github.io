@@ -1,0 +1,32 @@
+name: Update Tweets Section
+
+on:
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Run tweet fetch script
+        run: python scripts/fetch_tweets.py
+
+      - name: Commit and push if changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add tweets.md
+          git commit -m "Auto-update tweets.md" || echo "No changes to commit"
+          git push
