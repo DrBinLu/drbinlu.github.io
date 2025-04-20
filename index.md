@@ -9,16 +9,22 @@ title: ""
 
 **Renewable Energy Researcher**  
 *Grid integration • Energy storage • Hydrogen • Geographic Information Systems*
-*DrBinLu@gmail.com
 
 
 <p style="margin-top: 10px;">
 👉 <a href="/about/">About Me</a>
 </p>
 
+
 <p>
 🐦 <a href="https://x.com/DrBinLu" target="_blank">See My Latest Posts on X</a>
 </p>
+
+
+<p>
+📧 <a href="mailto:DrBinLu@gmail.com">Send Me an Email</a> — DrBinLu@gmail.com
+</p>
+
 
 ---
 
