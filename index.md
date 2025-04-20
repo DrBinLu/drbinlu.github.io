@@ -17,27 +17,13 @@ title: ""
 </p>
 
 <p>
-🐦 <a href="https://x.com/DrBinLu" target="_blank">Latest X Posts</a>
+🐦 <a href="https://x.com/DrBinLu" target="_blank">See My Latest Posts on X</a>
 </p>
 
 ---
 
 
-# Media
-
-
-## 🐦 Recent X Posts
-
-<a class="twitter-timeline" 
-   data-height="600" 
-   href="https://twitter.com/DrBinLu?ref_src=twsrc%5Etfw">
-   Tweets by DrBinLu
-</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-## 📰 In the News
+# News
 
 <ul>
   <li>
