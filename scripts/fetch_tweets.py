@@ -1,6 +1,6 @@
 import feedparser
 
-FEED_URL = "https://nitter.net/DrBinLu/rss"
+FEED_URL = "https://nitter.poast.org/DrBinLu/rss"
 OUTPUT_PATH = "tweets.md"
 NUM_TWEETS = 3
 
