@@ -14,6 +14,5 @@ if not feed.entries:
 with open(OUTPUT_PATH, "w") as f:
     f.write("## 🐦 Recent on X\n\n")
     for entry in feed.entries[:NUM_TWEETS]:
-        link = entry.link
         title = entry.title.replace("\n", " ").strip()
-        f.write(f"- [{title}]({link})\n")
+        f.write(f"- [{title}]({entry.link})\n")
