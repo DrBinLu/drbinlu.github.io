@@ -1,17 +1,13 @@
 ---
 layout: default
-title: "About Me"
+title: ""
 permalink: /about/
 ---
 
-<img src="Bin Lu.jpg" alt="Dr Bin Lu" width="200" style="border-radius: 50%;">
+<img src="binlu.jpg" alt="Dr Bin Lu" width="200" style="border-radius: 50%;">
 
-# Dr Bin Lu
+# About Me
 
-**Renewable Energy Researcher**  
-*Grid integration • Energy storage • Geographic Information System*
-
----
 
 Hi, I’m a Senior Research Fellow at the Australian National University, where I lead the Renewable Energy Systems Program as part of the Zero-Carbon Energy for the Asia-Pacific initiative. My work is all about helping countries shift to cleaner, smarter energy systems — especially across Australia and the Asia-Pacific.
 
