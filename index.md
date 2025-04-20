@@ -70,23 +70,49 @@ title: ""
 ---
 
 
-# Research Highlights
+## 🔬 Research Highlights
 
-- **100% renewable electricity in Southeast Asia**  
-  *Exploring the feasibility and benefits of a fully renewable power system across ASEAN.*  
-  [📄 Read the paper](https://doi.org/10.1016/j.energy.2021.121387)
+<div style="display: flex; flex-direction: column; gap: 20px;">
 
-- **Zero-carbon energy future in Australia**  
-  *Techno-economic modelling of Australia's pathways to net-zero emissions.*  
-  [📄 Read the paper](https://doi.org/10.1016/j.energy.2020.119678)
+  <div style="display: flex; gap: 15px;">
+    <img src="/images/asean-renewables.jpg" alt="ASEAN renewables" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <div>
+      <strong>100% Renewable Electricity in Southeast Asia</strong><br>
+      Exploring the feasibility and benefits of a fully renewable power system across ASEAN.<br>
+      📄 <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">Read the paper</a>
+    </div>
+  </div>
 
-- **90–100% renewable electricity for Western Australia**  
-  *Analysed high-renewable electricity scenarios for the South West Interconnected System (SWIS).*  
-  [📄 Read the paper](https://doi.org/10.1016/j.energy.2017.01.077)
+  <div style="display: flex; gap: 15px;">
+    <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <div>
+      <strong>Zero-Carbon Energy Future in Australia</strong><br>
+      Techno-economic modelling of Australia's pathways to net-zero emissions.<br>
+      📄 <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">Read the paper</a>
+    </div>
+  </div>
 
-- **GIS algorithms for hydro storage resource assessment**  
-  *Developed STORES: a global tool for identifying high-potential pumped hydro sites.*  
-  [📄 Read the paper](https://doi.org/10.1016/j.apenergy.2018.03.177)
+  <div style="display: flex; gap: 15px;">
+    <img src="/images/wa-renewables.jpg" alt="WA renewable electricity" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <div>
+      <strong>90–100% Renewable Electricity for Western Australia</strong><br>
+      Analysed high-renewable electricity scenarios for the SWIS.<br>
+      📄 <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">Read the paper</a>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 15px;">
+    <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <div>
+      <strong>GIS Algorithms for Hydro Storage Assessment</strong><br>
+      Developed STORES: a global tool for identifying high-potential pumped hydro sites.<br>
+      📄 <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">Read the paper</a>
+    </div>
+  </div>
+
+</div>
+
+
 
 ---
 
