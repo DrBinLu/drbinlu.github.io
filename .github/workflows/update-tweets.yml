@@ -2,7 +2,7 @@ name: Update Tweets Section
 
 on:
   schedule:
-    - cron: '0 2 * * *'  
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,6 @@ jobs:
       - name: Run tweet fetch script
         run: |
           python scripts/fetch_tweets.py
-          echo "--- tweets.md content ---"
           cat tweets.md || echo "tweets.md not generated"
 
       - name: Commit and push if tweets.md changed
@@ -34,11 +33,12 @@ jobs:
           if [ -f tweets.md ]; then
             git add tweets.md
             if git diff --cached --quiet; then
-              echo "✅ tweets.md has no changes"
+              echo "No changes to commit"
             else
               git commit -m "Auto-update tweets.md"
               git push
             fi
           else
-            echo "❌ tweets.md was not generated."
+            echo "tweets.md not found"
             exit 1
+          fi
