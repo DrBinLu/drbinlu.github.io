@@ -28,11 +28,13 @@ title: ""
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
-      <img src="/images/act-electrification.jpg" alt="All-electric ACT"
-           style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
+        <img src="/images/act-electrification.jpg" alt="All-electric ACT"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
         <strong>ANU experts to power path to all-electric ACT</strong>
@@ -40,11 +42,13 @@ title: ""
     </div>
   </div>
 
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
-      <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
-           style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
+        <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
         <strong>ANU researcher awarded international hydrogen research fellowship</strong>
@@ -52,11 +56,13 @@ title: ""
     </div>
   </div>
 
-  <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
-      <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
-           style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
+        <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
         <strong>ICEDS Research Snapshots: Dr Bin Lu, Industrial Hydrogen Storage</strong>
@@ -73,54 +79,62 @@ title: ""
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; gap: 15px;">
-    <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">
-      <img src="/images/asean-renewables.jpg" alt="ASEAN renewables" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">
+        <img src="/images/asean-renewables.jpg" alt="ASEAN renewables"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">
         <strong>100% Renewable Electricity in Southeast Asia</strong>
       </a><br>
-      Exploring the feasibility and benefits of a fully renewable power system across ASEAN.<br>
-      📄 <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">Read the paper</a>
+      Exploring the feasibility and benefits of a fully renewable power system across ASEAN.
     </div>
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">
-      <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">
+        <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">
         <strong>Zero-Carbon Energy Future in Australia</strong>
       </a><br>
-      Techno-economic modelling of Australia's pathways to net-zero emissions.<br>
-      📄 <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">Read the paper</a>
+      Techno-economic modelling of Australia's pathways to net-zero emissions.
     </div>
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">
-      <img src="/images/wa-renewables.jpg" alt="WA renewable electricity" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">
+        <img src="/images/wa-renewables.jpg" alt="WA renewable electricity"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">
         <strong>90–100% Renewable Electricity for Western Australia</strong>
       </a><br>
-      Analysed high-renewable electricity scenarios for the SWIS.<br>
-      📄 <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">Read the paper</a>
+      Analysed high-renewable electricity scenarios for the SWIS.
     </div>
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">
-      <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-    </a>
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">
+        <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
     <div>
       <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">
         <strong>GIS Algorithms for Hydro Storage Assessment</strong>
       </a><br>
-      Developed STORES: a global tool for identifying high-potential pumped hydro sites.<br>
-      📄 <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">Read the paper</a>
+      Developed STORES: a global tool for identifying high-potential pumped hydro sites.
     </div>
   </div>
 
