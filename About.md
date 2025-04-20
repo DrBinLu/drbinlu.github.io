@@ -1,5 +1,3 @@
-[← Back to Home](/)
-
 ---
 layout: default
 title: ""
