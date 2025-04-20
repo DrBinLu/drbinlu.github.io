@@ -1,12 +1,15 @@
+# Updated GitHub Actions workflow with better logging and commit detection
+
+final_workflow = '''\
 name: Update Tweets Section
 
 on:
   schedule:
-    - cron: '0 2 * * *'
+    - cron: '0 2 * * *'  # 每天凌晨 2 点运行
   workflow_dispatch:
 
 jobs:
-  build:
+  update-tweets:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -21,14 +24,16 @@ jobs:
         run: pip install feedparser
 
       - name: Run tweet fetch script
-        run: python scripts/fetch_tweets.py
+        run: |
+          python scripts/fetch_tweets.py
+          echo "--- tweets.md content ---"
+          cat tweets.md || echo "tweets.md not generated"
 
       - name: Commit and push if tweets.md changed
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@users.noreply.github.com"
 
-          # Check if tweets.md exists and has changes
           if [ -f tweets.md ]; then
             git add tweets.md
             if git diff --cached --quiet; then
@@ -38,6 +43,12 @@ jobs:
               git push
             fi
           else
-            echo "❌ tweets.md not found"
+            echo "❌ tweets.md was not generated."
             exit 1
-          fi
+'''
+
+workflow_final_path = "/mnt/data/update-tweets-final.yml"
+with open(workflow_final_path, "w") as f:
+    f.write(final_workflow)
+
+workflow_final_path
