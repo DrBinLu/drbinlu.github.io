@@ -8,7 +8,10 @@ title: ""
 # Dr Bin Lu
 
 **Renewable Energy Researcher**  
-*Grid integration • Energy storage • Geographic Information System*
+*Grid integration • Energy storage • Hydrogen • Geographic Information Systems*
+
+📧 DrBinLu@gmail.com | 🐦 [@DrBinLu](https://x.com/DrBinLu) | 🌐 [www.drbinlu.com](https://www.drbinlu.com)
+
 
 <p style="margin-top: 10px;">
 👉 <a href="/about/">About Me</a>
