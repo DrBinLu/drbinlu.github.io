@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: ""
 ---
 
 <img src="Bin Lu.jpg" alt="Dr Bin Lu" width="200" style="border-radius: 50%;">
