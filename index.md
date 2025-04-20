@@ -35,7 +35,7 @@ title: ""
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
     <img src="/images/act-electrification.jpg" alt="All-electric ACT"
-         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+         style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
         <strong>ANU experts to power path to all-electric ACT</strong>
@@ -45,7 +45,7 @@ title: ""
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
     <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
-         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+         style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
         <strong>ANU researcher awarded international hydrogen research fellowship</strong>
@@ -55,7 +55,7 @@ title: ""
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
     <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
-         style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+         style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
         <strong>ICEDS Research Snapshots: Dr Bin Lu, Industrial Hydrogen Storage</strong>
@@ -75,7 +75,7 @@ title: ""
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; gap: 15px;">
-    <img src="/images/asean-renewables.jpg" alt="ASEAN renewables" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="/images/asean-renewables.jpg" alt="ASEAN renewables" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <strong>100% Renewable Electricity in Southeast Asia</strong><br>
       Exploring the feasibility and benefits of a fully renewable power system across ASEAN.<br>
@@ -84,7 +84,7 @@ title: ""
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <strong>Zero-Carbon Energy Future in Australia</strong><br>
       Techno-economic modelling of Australia's pathways to net-zero emissions.<br>
@@ -93,7 +93,7 @@ title: ""
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <img src="/images/wa-renewables.jpg" alt="WA renewable electricity" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="/images/wa-renewables.jpg" alt="WA renewable electricity" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <strong>90–100% Renewable Electricity for Western Australia</strong><br>
       Analysed high-renewable electricity scenarios for the SWIS.<br>
@@ -102,7 +102,7 @@ title: ""
   </div>
 
   <div style="display: flex; gap: 15px;">
-    <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES" style="width: 120px; height: 80px; object-fit: cover; border-radius: 8px;">
+    <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES" style="width: 100%; max-width: 120px; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
     <div>
       <strong>GIS Algorithms for Hydro Storage Assessment</strong><br>
       Developed STORES: a global tool for identifying high-potential pumped hydro sites.<br>
@@ -111,7 +111,6 @@ title: ""
   </div>
 
 </div>
-
 
 
 ---
