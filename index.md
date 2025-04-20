@@ -29,27 +29,25 @@ title: ""
 ---
 
 
-# 📰 In the News
+## 📰 In the News
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <img src="https://www.anu.edu.au/files/styles/news_image/public/story/2024-02/ACT-electrification.jpg" alt="All-electric ACT" width="120" style="border-radius: 8px;">
+    <img src="/images/act-electrification.jpg" alt="All-electric ACT" width="120" style="border-radius: 8px;">
     <div>
-      <a href="https://www.anu.edu.au/news/all-news/anu-experts-to-power-path-to-all-electric-act" target="_blank">
+      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
         <strong>ANU experts to power path to all-electric ACT</strong>
-      </a><br>
-      ANU team outlines a roadmap for Canberra’s full electrification.
+      </a>
     </div>
   </div>
 
   <div style="display: flex; gap: 15px; align-items: flex-start;">
-    <img src="https://iceds.anu.edu.au/sites/default/files/styles/anu_home_carousel/public/2023-11/HydrogenFellowship.jpg" alt="Hydrogen fellowship" width="120" style="border-radius: 8px;">
+    <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship" width="120" style="border-radius: 8px;">
     <div>
       <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
         <strong>ANU researcher awarded international hydrogen research fellowship</strong>
-      </a><br>
-      Recognised for leadership in hydrogen modelling and clean energy strategy.
+      </a>
     </div>
   </div>
 
