@@ -117,8 +117,12 @@ title: ""
 ---
 
 
-## Contact
+## 📬 Contact
 
-📧 Email: DrBinLu@gmail.com  
-🌐 Website: [www.drbinlu.com](https://www.drbinlu.com)  
-📍 Location: Canberra, Australia
+<p>
+📧 <strong>Email:</strong> <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a><br>
+🐦 <strong>X (Twitter):</strong> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a><br>
+🌐 <strong>Website:</strong> <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a><br>
+📍 <strong>Location:</strong> Canberra, Australia
+</p>
+
