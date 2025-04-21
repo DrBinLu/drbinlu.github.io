@@ -15,12 +15,11 @@ title: ""
 </p>
 
 <p>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968947.png" alt="X logo" width="16" style="vertical-align: text-bottom; margin-right: 5px;">
-<a href="https://x.com/DrBinLu" target="_blank">See My Latest Posts on X</a> &nbsp; | &nbsp; <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a>
+🐦 <a href="https://x.com/DrBinLu" target="_blank">See My Latest Posts on X</a> @DrBinLu
 </p>
 
 <p>
-📧 <a href="mailto:DrBinLu@gmail.com">Send Me an Email</a>   DrBinLu@gmail.com
+📧 <a href="mailto:DrBinLu@gmail.com">Send Me an Email</a> DrBinLu@gmail.com
 </p>
 
 ---
