@@ -15,6 +15,9 @@ My research focuses on energy system modelling, renewable resource assessment, a
 
 I’ve been lucky to work with great teams, receive fellowships, and share this research with millions of people around the world.
 
+When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
+
+
 ---
 
 ## 🏅 Prizes, Honours & Awards
