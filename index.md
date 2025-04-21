@@ -142,6 +142,53 @@ title: ""
 
 ---
 
+
+## 🌍 Outreach
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <img src="/images/anu-submission.png" alt="ANU Submission" width="60" style="border-radius: 8px; flex-shrink: 0;">
+    <a href="https://iceds.anu.edu.au/files/ANU%20Submission%20to%20the%20ACT%20Integrated%20Energy%20Plan.pdf" target="_blank">
+      ANU Submission to the ACT Integrated Energy Plan
+    </a>
+  </div>
+
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <img src="/images/aph.png" alt="Australian Parliament Hearing" width="60" style="border-radius: 8px; flex-shrink: 0;">
+    <a href="https://www.aph.gov.au/DocumentStore.ashx?hearingid=30772&submissions=false" target="_blank">
+      Australian Parliament Public Hearing – Energy Inquiry
+    </a>
+  </div>
+
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <img src="/images/joint-declaration.png" alt="Joint Declaration" width="60" style="border-radius: 8px; flex-shrink: 0;">
+    <a href="https://www.rethinkx.com/joint-declaration" target="_blank">
+      Joint Declaration on 100% Renewable Energy
+    </a>
+  </div>
+
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <img src="/images/iseas-webinar.png" alt="ISEAS Webinar" width="60" style="border-radius: 8px; flex-shrink: 0;">
+    <a href="https://www.iseas.edu.sg/media/event-highlights/webinar-on-100-renewable-electricity-in-southeast-asia/" target="_blank">
+      ISEAS Webinar: 100% Renewable Electricity in Southeast Asia
+    </a>
+  </div>
+
+  <div style="display: flex; gap: 15px; align-items: center;">
+    <img src="/images/reneweconomy.png" alt="RenewEconomy" width="60" style="border-radius: 8px; flex-shrink: 0;">
+    <a href="https://reneweconomy.com.au/for-100-billion-australia-could-have-a-low-cost-and-reliable-zero-emissions-grid/amp/" target="_blank">
+      RenewEconomy: Zero-Emissions Grid for Australia
+    </a>
+  </div>
+
+</div>
+
+
+
+---
+
+
 ## 📬 Contact
 
 <p>
