@@ -12,11 +12,6 @@ title: DrBinLu.com
   gtag('config', 'G-Q3TG1JXYV3');
 </script>
 
-# Welcome to DrBinLu.com
-
-Sharing research, clean energy news & climate insights.
-
----
 
 <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%;">
 
