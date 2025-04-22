@@ -1,6 +1,21 @@
 ---
 layout: default
-title: ""
+title: DrBinLu.com
+---
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3TG1JXYV3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-Q3TG1JXYV3');
+</script>
+
+# Welcome to DrBinLu.com
+
+Sharing research, clean energy news & climate insights.
+
 ---
 
 <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%;">
