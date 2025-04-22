@@ -13,8 +13,6 @@ title: DrBinLu.com
 </script>
 
 
----
-
 <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%;">
 
 # Dr Bin Lu
