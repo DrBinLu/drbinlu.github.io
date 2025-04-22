@@ -156,7 +156,7 @@ title: ""
     </div>
     <div>
       <a href="https://iceds.anu.edu.au/files/ANU%20Submission%20to%20the%20ACT%20Integrated%20Energy%20Plan.pdf" target="_blank">
-        ANU Submission to the ACT Integrated Energy Plan
+        ANU Submission to the Australian Capital Territory's Integrated Energy Plan
       </a>
     </div>
   </div>
@@ -168,7 +168,7 @@ title: ""
       </a>
     </div>
     <div>
-      <a href="https://www.aph.gov.au/DocumentStore.ashx?hearingid=30772&submissions=false" target="_blank">
+      <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/commjnt/26740/&sid=0008" target="_blank">
         Australian Parliament Public Hearing: Inquiry into Australia's transition to a green energy superpower
       </a>
     </div>
