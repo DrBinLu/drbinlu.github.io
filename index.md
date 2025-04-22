@@ -13,6 +13,8 @@ title: DrBinLu.com
 </script>
 
 
+---
+
 <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%;">
 
 # Dr Bin Lu
@@ -166,7 +168,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://iceds.anu.edu.au/files/ANU%20Submission%20to%20the%20ACT%20Integrated%20Energy%20Plan.pdf" target="_blank">
-        ANU Submission to the Australian Capital Territory's Integrated Energy Plan
+        <strong>ANU Submission to the Australian Capital Territory's Integrated Energy Plan</strong>
       </a>
     </div>
   </div>
@@ -179,7 +181,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/commjnt/26740/&sid=0008" target="_blank">
-        Australian Parliament Public Hearing: Inquiry into Australia's transition to a green energy superpower
+        <strong>Australian Parliament Public Hearing: Inquiry into Australia's transition to a green energy superpower</strong>
       </a>
     </div>
   </div>
@@ -192,7 +194,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://www.iseas.edu.sg/media/event-highlights/webinar-on-100-renewable-electricity-in-southeast-asia/" target="_blank">
-        ISEAS Webinar: 100% Renewable Electricity in Southeast Asia
+        <strong>ISEAS Webinar: 100% Renewable Electricity in Southeast Asia</strong>
       </a>
     </div>
   </div>
@@ -205,7 +207,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://www.rethinkx.com/joint-declaration" target="_blank">
-        Joint Declaration on 100% Renewable Energy
+        <strong>Joint Declaration on 100% Renewable Energy</strong>
       </a>
     </div>
   </div>
@@ -218,7 +220,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://reneweconomy.com.au/for-100-billion-australia-could-have-a-low-cost-and-reliable-zero-emissions-grid/amp/" target="_blank">
-        RenewEconomy: Zero-Emissions Grid for Australia
+        <strong>RenewEconomy: Zero-Emissions Grid for Australia</strong>
       </a>
     </div>
   </div>
