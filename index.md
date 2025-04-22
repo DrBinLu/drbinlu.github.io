@@ -213,6 +213,19 @@ title: ""
     </div>
   </div>
 
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="#" target="_blank">
+        <img src="/images/australia-awards.png" alt="Australia Awards" style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="#" target="_blank">
+        Australia Awards Course: Grid Integration of Renewable Energy
+      </a>
+    </div>
+  </div>
+
 </div>
 
 
