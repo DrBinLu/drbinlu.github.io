@@ -13,7 +13,7 @@ Hi, I’m a Senior Research Fellow at the Australian National University. My wor
 
 My research focuses on energy system modelling, renewable resource assessment, and storage solutions. I developed the STORES Geographic Information System algorithm to identify off-river hydro storage across elevated landscapes — work that earned the Eureka Prize for Environmental Research. I also created the FIRM energy modelling tool, widely used across the Asia-Pacific to plan reliable, 100% renewable futures.
 
-My research journey has taken me through Australia (PhD, Australian National University), China (ME & BE, Wuhan University), and the United States (Visiting Fellow, Stanford University) — experiences that shaped a global perspective and fuelled my passion for driving creative solutions to today’s energy challenges. I’ve been lucky to work with great teams, receive fellowships, and share this research with millions of people around the world.
+My research journey has taken me through Australia (PhD, Australian National University), China (ME & BE, Wuhan University), and the United States (Visiting Fellow, Stanford University) — experiences that shaped a global perspective on today’s energy challenges. I’ve been lucky to work with great teams, receive fellowships, and share this research with millions of people around the world.
 
 When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
 
