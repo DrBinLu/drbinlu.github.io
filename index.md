@@ -231,10 +231,13 @@ title: DrBinLu.com
 
 ## 🐦 Recent on X
 
-<div style="text-align: center; margin-top: 20px;">
-  <a class="twitter-timeline" data-width="400" data-height="600" href="https://x.com/DrBinLu?ref_src=twsrc%5Etfw">Tweets by @DrBinLu</a>
+{% raw %}
+<div style="text-align: center; margin-top: 1em;">
+  <a class="twitter-timeline" data-height="600" href="https://x.com/DrBinLu?ref_src=twsrc%5Etfw">Tweets by @DrBinLu</a>
+  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% endraw %}
+
 
 
 ---
