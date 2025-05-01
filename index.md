@@ -75,7 +75,7 @@ title: DrBinLu.com
     </div>
     <div>
       <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
-        <strong>ICEDS Research Snapshots: Dr Bin Lu, Industrial Hydrogen Storage</strong>
+        <strong>ICEDS Research Snapshots: Industrial Hydrogen Storage</strong>
       </a>
     </div>
   </div>
