@@ -90,13 +90,13 @@ title: DrBinLu.com
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544221016352?via%3Dihub" target="_blank">
         <img src="/images/asean-renewables.jpg" alt="ASEAN renewables"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
     <div>
-      <a href="https://doi.org/10.1016/j.energy.2021.121387" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544221016352?via%3Dihub" target="_blank">
         <strong>100% Renewable Electricity in Southeast Asia</strong>
       </a><br>
       Exploring the feasibility and benefits of a fully renewable power system across ASEAN.
@@ -105,13 +105,13 @@ title: DrBinLu.com
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544220327857?via%3Dihub" target="_blank">
         <img src="/images/australia-zero-carbon.jpg" alt="Zero-carbon Australia"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
     <div>
-      <a href="https://doi.org/10.1016/j.energy.2020.119678" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544220327857?via%3Dihub" target="_blank">
         <strong>Zero-Carbon Energy Future in Australia</strong>
       </a><br>
       Techno-economic modelling of Australia's pathways to net-zero emissions.
@@ -120,13 +120,13 @@ title: DrBinLu.com
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544217300774?via%3Dihub" target="_blank">
         <img src="/images/wa-renewables.jpg" alt="WA renewable electricity"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
     <div>
-      <a href="https://doi.org/10.1016/j.energy.2017.01.077" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0360544217300774?via%3Dihub" target="_blank">
         <strong>90–100% Renewable Electricity for Western Australia</strong>
       </a><br>
       Analysed high-renewable electricity scenarios for the SWIS.
@@ -135,13 +135,13 @@ title: DrBinLu.com
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0306261918305270?via%3Dihub" target="_blank">
         <img src="/images/stores-hydro.jpg" alt="Hydro GIS STORES"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
     <div>
-      <a href="https://doi.org/10.1016/j.apenergy.2018.03.177" target="_blank">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0306261918305270?via%3Dihub" target="_blank">
         <strong>GIS Algorithms for Hydro Storage Assessment</strong>
       </a><br>
       Developed STORES: a global tool for identifying high-potential pumped hydro sites.
