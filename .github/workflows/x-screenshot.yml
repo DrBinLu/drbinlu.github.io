@@ -22,7 +22,7 @@ jobs:
         run: |
           DATE=$(date +'%Y-%m-%d')
           mkdir -p screenshots
-          curl "https://api.screenshotone.com/take?access_key=$API_KEY&url=https://x.com/DrBinLu&full_page=true" \
+          curl "https://api.screenshotone.com/take?access_key=$API_KEY&url=https://x.com/DrBinLu&full_page=true&delay=5000" \
             --output "screenshots/x-${DATE}.png"
 
       - name: Commit and push screenshot
