@@ -2,8 +2,8 @@ name: Daily X Screenshot
 
 on:
   schedule:
-    - cron: '0 20 * * *'  # Runs daily at 6am AEST (8pm UTC)
-  workflow_dispatch:        # Allows manual triggering
+    - cron: '0 20 * * *'  # Every day at 6am AEST (8pm UTC)
+  workflow_dispatch:        # Manual trigger option
 
 jobs:
   screenshot:
@@ -21,11 +21,8 @@ jobs:
           API_KEY: ${{ secrets.SCREENSHOTONE_API_KEY }}
         run: |
           DATE=$(date +'%Y-%m-%d')
-          curl "https://api.screenshotone.com/take" \
-            -H "Authorization: Token $API_KEY" \
-            -G \
-            --data-urlencode "url=https://x.com/DrBinLu" \
-            --data-urlencode "full_page=true" \
+          mkdir -p screenshots
+          curl "https://api.screenshotone.com/take?access_key=$API_KEY&url=https://x.com/DrBinLu&full_page=true" \
             --output "screenshots/x-${DATE}.png"
 
       - name: Commit and push screenshot
