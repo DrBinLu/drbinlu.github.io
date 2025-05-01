@@ -229,20 +229,6 @@ title: DrBinLu.com
 ---
 
 
-## 🐦 Recent on X
-
-{% raw %}
-<div style="text-align: center; margin-top: 1em;">
-  <a class="twitter-timeline" data-height="600" href="https://x.com/DrBinLu?ref_src=twsrc%5Etfw">Tweets by @DrBinLu</a>
-</div>
-{% endraw %}
-
-
-
-
----
-
-
 ## 📬 Contact
 
 <p>
