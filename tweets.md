@@ -1,4 +1,6 @@
 ## 🐦 Recent on X
 
-*Unable to fetch tweets right now.*
-[Try opening the feed manually](https://nitter.poast.org/DrBinLu/rss)
+<div style="margin-top: 1em;">
+  <a class="twitter-timeline" data-height="600" href="https://x.com/DrBinLu?ref_src=twsrc%5Etfw">Tweets by @DrBinLu</a> 
+</div>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
