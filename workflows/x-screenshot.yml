@@ -1,0 +1,29 @@
+name: Daily X Screenshot
+
+on:
+  schedule:
+    - cron: '0 20 * * *'  # every day at 6am AEST (8pm UTC)
+  workflow_dispatch:
+
+jobs:
+  screenshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Download screenshot
+        env:
+          API_KEY: ${{ secrets.SCREENSHOTONE_API_KEY }}
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          URL="https://x.com/DrBinLu"
+          curl "https://api.screenshotone.com/take?token=$API_KEY&url=${URL}&full_page=true" --output "screenshots/x-${DATE}.png"
+
+      - name: Commit and push screenshot
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add screenshots/
+          git commit -m "Add screenshot for $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
