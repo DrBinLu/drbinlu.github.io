@@ -173,7 +173,7 @@ title: DrBinLu.com
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://www.aph.gov.au/DocumentStore.ashx?hearingid=30772&submissions=false" target="_blank">
+      <a href="https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=committees/commjnt/26740/&sid=0008" target="_blank">
         <img src="/images/aph.png" alt="Australian Parliament Hearing" style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
