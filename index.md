@@ -43,7 +43,7 @@ title: DrBinLu.com
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     🇦🇺 <strong>Big day, Australia!</strong><br>
-    This election isn’t just about politics — it’s about where we’re headed on electricity.  
+    This election isn’t just about politics — it’s about where we’re headed on electricity.  <br>
     Labor: 82% renewables by 2030  <br>
     Coalition: 38% nuclear + 54% renewables by 2050  <br>
     Two visions. One vote.  
