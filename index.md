@@ -18,7 +18,7 @@ title: DrBinLu.com
   <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%; max-width: 100%;">
 
   <div>
-    <h1 style="margin-bottom: 0.3em;">Dr Bin Lu</h1>
+    <h2 style="margin-bottom: 0.3em;">Dr Bin Lu</h2>
     <p style="margin: 0; font-weight: bold;">Renewable Energy Researcher</p>
     <p style="margin-top: 0.3em; font-style: italic;">
       Grid integration • Energy storage • Hydrogen • Geographic Information Systems
@@ -36,6 +36,7 @@ title: DrBinLu.com
   </div>
 
 </div>
+
 
 ---
 
