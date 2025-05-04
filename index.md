@@ -25,7 +25,9 @@ title: DrBinLu.com
 </p>
 
 <p>
-📧 <a href="mailto:DrBinLu@gmail.com">Send Me an Email</a> DrBinLu@gmail.com
+📧 <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a> · 
+🐦 <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
+🌐 <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a>
 </p>
 
 ---
