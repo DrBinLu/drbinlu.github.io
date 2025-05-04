@@ -25,16 +25,12 @@ title: DrBinLu.com
 </p>
 
 <p>
-🐦 <a href="https://x.com/DrBinLu" target="_blank">See My Latest Posts on X</a> @DrBinLu
-</p>
-
-<p>
 📧 <a href="mailto:DrBinLu@gmail.com">Send Me an Email</a> DrBinLu@gmail.com
 </p>
 
 ---
 
-## 🐦 Recent Posts on X
+## 🐦 Latest Posts on X
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
