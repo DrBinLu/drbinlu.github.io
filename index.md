@@ -34,6 +34,45 @@ title: DrBinLu.com
 
 ---
 
+## 🐦 Recent Posts on X
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    🇺🇸 <strong>Trump admin proposes cutting $15B from renewables funding ✂️☀️</strong><br>
+    Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️  
+    <br><em style="color: #555;">Posted on May 3, 2025</em><br>
+    <a href="https://x.com/DrBinLu/status/1786632954284154946" target="_blank">🔗 View post</a>
+  </p>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    🇦🇺 <strong>Big day, Australia!</strong><br>
+    This election isn’t just about politics — it’s about where we’re headed on electricity.  
+    Labor: 82% renewables by 2030  <br>
+    Coalition: 38% nuclear + 54% renewables by 2050  <br>
+    Two visions. One vote.  
+    <br><em style="color: #555;">Posted on May 4, 2025</em><br>
+    <a href="https://x.com/DrBinLu/status/1786829051171234567" target="_blank">🔗 View post</a>
+  </p>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    💚 <strong>The clean energy transition isn’t just about technology or policy — it’s about people.</strong><br>
+    Every wind turbine and solar panel tells a story of land, culture, and communities leading the way.  
+    <br><em style="color: #555;">Posted on May 2, 2025</em><br>
+    <a href="https://x.com/DrBinLu/status/1786560933052004542" target="_blank">🔗 View post</a>
+  </p>
+</div>
+
+<p style="text-align: right; margin-top: 1.5em;">
+  👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
+</p>
+
+
+---
+
 ## 📰 In the News
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
