@@ -13,31 +13,24 @@ title: DrBinLu.com
 </script>
 
 
-<div style="width: 100%; max-width: none; text-align: left;">
+<img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%;" loading="eager" decoding="async">
 
-  <div style="display: flex; align-items: center; gap: 2em; flex-wrap: wrap; margin-top: 2em;">
-    <img src="binlu.jpg" alt="Dr Bin Lu" width="300" style="border-radius: 50%; max-width: 100%;">
+# Dr Bin Lu
 
-    <div>
-      <h2 style="margin-bottom: 0.3em;">Dr Bin Lu</h2>
-      <p style="margin: 0; font-weight: bold;">Renewable Energy Researcher</p>
-      <p style="margin-top: 0.3em; font-style: italic;">
-        Grid integration • Energy storage • Hydrogen • Geographic Information Systems
-      </p>
+**Renewable Energy Researcher**  
+*Grid integration • Energy storage • Hydrogen • Geographic Information Systems*
 
-      <p style="margin-top: 0.8em;">
-        👉 <a href="/about/">About Me</a>
-      </p>
+<p style="margin-top: 10px;">
+👉 <a href="/about/">About Me</a>
+</p>
 
-      <p>
-        📧 <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a> · 
-        🐦 <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
-        🌐 <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a>
-      </p>
-    </div>
-  </div>
+<p>
+📧 <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a> · 
+🐦 <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
+🌐 <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a>
+</p>
 
-</div>
+
 
 ---
 
