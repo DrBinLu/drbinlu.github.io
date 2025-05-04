@@ -35,8 +35,8 @@ title: DrBinLu.com
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     🇺🇸 <strong>Trump admin proposes cutting $15B from renewables funding ✂️☀️</strong><br>
-    Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️  
-    <br><em style="color: #555;">Posted on 4 May 2025 · <a href="https://x.com/DrBinLu/status/1918857575979741443" target="_blank">🔗 View post</a>
+    Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️<br>
+    <em style="color: #555;">Posted on 4 May 2025 · <a href="https://x.com/DrBinLu/status/1918857575979741443" target="_blank">🔗 View post</a></em>
   </p>
 </div>
 
@@ -46,22 +46,23 @@ title: DrBinLu.com
     This election isn’t just about politics — it’s about where we’re headed on electricity.  <br>
     Labor: 82% renewables by 2030  <br>
     Coalition: 38% nuclear + 54% renewables by 2050  <br>
-    Two visions. One vote.  
-    <br><em style="color: #555;">Posted on 3 May 2025  · <a href="https://x.com/DrBinLu/status/1918401682922476017" target="_blank">🔗 View post</a>
+    Two visions. One vote.<br>
+    <em style="color: #555;">Posted on 3 May 2025 · <a href="https://x.com/DrBinLu/status/1918401682922476017" target="_blank">🔗 View post</a></em>
   </p>
 </div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     💚 <strong>The clean energy transition isn’t just about technology or policy — it’s about people.</strong><br>
-    Every wind turbine and solar panel tells a story of land, culture, and communities leading the way.  
-    <br><em style="color: #555;">Posted on 2 May 2025  · <a href="https://x.com/DrBinLu/status/1918138536622223437" target="_blank">🔗 View post</a>
+    Every wind turbine and solar panel tells a story of land, culture, and communities leading the way.<br>
+    <em style="color: #555;">Posted on 2 May 2025 · <a href="https://x.com/DrBinLu/status/1918138536622223437" target="_blank">🔗 View post</a></em>
   </p>
 </div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
 </p>
+
 
 
 ---
