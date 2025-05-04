@@ -38,6 +38,18 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    Big goals? 🌏 Net zero. 🏭 Energy transformation.
+    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.
+    Let’s make it a change that uplifts everyone.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 5 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1919179225405546856" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     🇺🇸 <strong>Trump admin proposes cutting $15B from renewables funding ✂️☀️</strong><br>
     Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️
   </p>
@@ -58,17 +70,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1918401682922476017" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    💚 <strong>The clean energy transition isn’t just about technology or policy — it’s about people.</strong><br>
-    Every wind turbine and solar panel tells a story of land, culture, and communities leading the way.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 2 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1918138536622223437" target="_blank">🔗 View post</a>
   </div>
 </div>
 
