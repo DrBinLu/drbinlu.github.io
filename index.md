@@ -49,8 +49,8 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>Big goals? 🌏 Net zero. 🏭 Energy transformation.<br>
-    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.</strong><br>
+    <strong>Big goals? 🌏 Net zero. 🏭 Energy transformation.</strong><br>
+    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.<br>
     Let’s make it a change that uplifts everyone.
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
