@@ -40,8 +40,8 @@ title: DrBinLu.com
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Solar math that stuns:</strong><br>
-    🇺🇸 US electricity use = 4 trillion kWh/year
-    ⚡ 1 hectare of solar = 1 million kWh/year
+    🇺🇸 US electricity use = 4 trillion kWh/year<br>
+    ⚡ 1 hectare of solar = 1 million kWh/year<br>
     About 0.5% of US land could power it all. The Sun does the rest. ☀️
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
