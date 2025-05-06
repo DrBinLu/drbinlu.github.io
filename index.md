@@ -38,6 +38,17 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️
+    Next? Power backup from space too… (rooftop solar + storage, powered by the Sun☀️)
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 3 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1919582458431049958" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     Big goals? 🌏 Net zero. 🏭 Energy transformation.<br>
     But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.<br>
     Let’s make it a change that uplifts everyone.
@@ -56,20 +67,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 4 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1918857575979741443" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    🇦🇺 <strong>Big day, Australia!</strong><br>
-    This election isn’t just about politics — it’s about where we’re headed on electricity.<br>
-    Labor: 82% renewables by 2030<br>
-    Coalition: 38% nuclear + 54% renewables by 2050<br>
-    Two visions. One vote.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1918401682922476017" target="_blank">🔗 View post</a>
   </div>
 </div>
 
