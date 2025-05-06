@@ -38,7 +38,7 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️<br>
+    <strong>🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️</strong><br>
     Next? Power backup from space too… (rooftop solar + storage, powered by the Sun☀️)
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
@@ -49,8 +49,8 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    Big goals? 🌏 Net zero. 🏭 Energy transformation.<br>
-    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.<br>
+    <strong>Big goals? 🌏 Net zero. 🏭 Energy transformation.<br>
+    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.</strong><br>
     Let’s make it a change that uplifts everyone.
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
@@ -61,7 +61,7 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    🇺🇸 Trump admin proposes cutting $15B from renewables funding ✂️☀️<br>
+    <strong>🇺🇸 Trump admin proposes cutting $15B from renewables funding ✂️☀️</strong><br>
     Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
