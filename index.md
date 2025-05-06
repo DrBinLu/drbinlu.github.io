@@ -36,6 +36,20 @@ title: DrBinLu.com
 
 ## 🐦 Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Solar math that stuns:</strong><br>
+    🇺🇸 US electricity use = 4 trillion kWh/year
+    ⚡ 1 hectare of solar = 1 million kWh/year
+    About 0.5% of US land could power it all. The Sun does the rest. ☀️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 7 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1919863014439707119" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️</strong><br>
@@ -56,17 +70,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 5 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1919179225405546856" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇺🇸 Trump admin proposes cutting $15B from renewables funding ✂️☀️</strong><br>
-    Yet, global momentum for renewables remains strong—renewable power capacity on track to surpass fossil fuels in 2025 🌍🚀⚡️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 4 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1918857575979741443" target="_blank">🔗 View post</a>
   </div>
 </div>
 
