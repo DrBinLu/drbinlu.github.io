@@ -42,7 +42,7 @@ title: DrBinLu.com
     Next? Power backup from space too… (rooftop solar + storage, powered by the Sun☀️)
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 May 2025</span>
+    <span>Posted on 6 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1919582458431049958" target="_blank">🔗 View post</a>
   </div>
 </div>
