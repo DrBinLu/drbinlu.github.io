@@ -38,7 +38,7 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️
+    🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️<br>
     Next? Power backup from space too… (rooftop solar + storage, powered by the Sun☀️)
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
