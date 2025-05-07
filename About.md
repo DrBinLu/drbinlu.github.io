@@ -15,9 +15,6 @@ My research focuses on energy system modelling, renewable resource assessment, a
 
 My research journey has taken me through Australia (PhD, Australian National University), China (ME & BE, Wuhan University), and the United States (Visiting Fellow, Stanford University) — experiences that shaped a global perspective on today’s energy challenges. I’ve been lucky to work with great teams, receive fellowships, and share this research with millions of people around the world.
 
-When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
-
-
 ---
 
 ## 🏅 Prizes, Honours & Awards
@@ -32,6 +29,11 @@ When I’m not working, you’ll probably find me bushwalking, jogging by the be
 - Australian Postgraduate Award (2016)
 - ANU Postgraduate Research Scholarship (2016–2018)
 
+---
+
+## 🏔️ Beyond Work
+
+When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
 
 
 [⬅ Return to Homepage](/)
