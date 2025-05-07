@@ -25,7 +25,7 @@ title: DrBinLu.com
 
 <p>
 📧 <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a> · 
-<img src="/images/x-logo.png" alt="X logo" width="18" style="vertical-align: text-bottom; margin-right: 6px;"> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
+<img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: text-bottom; margin-right: 6px;"> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
 🌐 <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a>
 </p>
 
@@ -33,7 +33,7 @@ title: DrBinLu.com
 
 ---
 
-## <img src="/images/x-logo.png" alt="X logo" width="18" style="vertical-align: text-bottom; margin-right: 6px;"> Latest Posts on X
+## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: text-bottom; margin-right: 6px;"> Latest Posts on X
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
@@ -277,7 +277,7 @@ title: DrBinLu.com
 
 <p>
 📧 <strong>Email:</strong> <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a><br>
-<img src="/images/x-logo.png" alt="X logo" width="18" style="vertical-align: text-bottom; margin-right: 6px;"> <strong>X (Twitter):</strong> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a><br>
+<img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: text-bottom; margin-right: 6px;"> <strong>X (Twitter):</strong> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a><br>
 🌐 <strong>Website:</strong> <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a><br>
 📍 <strong>Location:</strong> Canberra, Australia
 </p>
