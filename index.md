@@ -17,8 +17,7 @@ title: DrBinLu.com
 
 # Dr Bin Lu
 
-**Renewable Energy Researcher**  
-*Grid integration • Energy storage • Hydrogen • Geographic Information Systems*
+**Senior Research Fellow, The Australian National University**
 
 <p style="margin-top: 10px;">
 👉 <a href="/about/">About Me</a>
