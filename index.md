@@ -37,8 +37,8 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>🇨🇦 Canada:
-    #3 in crude oil exports - after 🇸🇦🇷🇺
+    <strong>🇨🇦 Canada:<br>
+    #3 in crude oil exports - after 🇸🇦🇷🇺<br>
     #4 in pipeline gas exports - after 🇳🇴 🇷🇺 🇺🇸</strong><br>
     The next big win? Becoming a renewable energy superpower!<br>
     🇦🇺 Australia’s in the race too.
