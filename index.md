@@ -37,6 +37,19 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🚫 EU to ban all Russian gas by 2027</strong><br>
+    🇺🇸 US reserves: 20 trillion m³ = 15 years of US + Europe demand<br>
+    🇳🇴 Norway: 1.4 trillion m³ = just 3 years of Europe’s demand<br>
+    ☀️ Renewables aren’t a choice — they’re the future.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 9 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1920620885074989304" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🇨🇦 Canada:<br>
     #3 in crude oil exports - after 🇸🇦🇷🇺<br>
     #4 in pipeline gas exports - after 🇳🇴 🇷🇺 🇺🇸</strong><br>
@@ -59,17 +72,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 7 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1919863014439707119" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇪🇸🇵🇹 During the blackout across Spain and Portugal, Starlink kept communications alive—from space🛰️</strong><br>
-    Next? Power backup from space too… (rooftop solar + storage, powered by the Sun☀️)
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 6 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1919582458431049958" target="_blank">🔗 View post</a>
   </div>
 </div>
 
