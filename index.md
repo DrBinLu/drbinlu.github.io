@@ -35,6 +35,19 @@ title: DrBinLu.com
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🇨🇦 Canada:
+    #3 in crude oil exports - after 🇸🇦🇷🇺
+    #4 in pipeline gas exports - after 🇳🇴 🇷🇺 🇺🇸</strong><br>
+    The next big win? Becoming a renewable energy superpower!<br>
+    🇦🇺 Australia’s in the race too.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 8 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1920288852087882223" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -57,18 +70,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 6 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1919582458431049958" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Big goals? 🌏 Net zero. 🏭 Energy transformation.</strong><br>
-    But real impact is local — it’s about us. From Jindabyne to Detroit, the energy transition has reshaped lives.<br>
-    Let’s make it a change that uplifts everyone.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 5 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1919179225405546856" target="_blank">🔗 View post</a>
   </div>
 </div>
 
