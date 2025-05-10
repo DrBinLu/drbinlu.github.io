@@ -37,10 +37,10 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>⚡🌍The world is electrifying — and copper powers it.</strong><br>
-    3/4 of copper goes to electrical uses.<br> 
-    Who holds the copper keys? 🇨🇱Chile 19% 🇵🇪Peru 10% 🇦🇺Australia 10% of global reserves<br>
-    🟠Big copper = big energy future
+    <strong>⚡🌍 The world is electrifying — and copper powers it.</strong><br>
+    3/4 of copper goes to electrical uses.<br>
+    Who holds the copper keys? 🇨🇱 Chile 19% 🇵🇪 Peru 10% 🇦🇺 Australia 10% of global reserves<br>
+    🟠 Big copper = big energy future
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 11 May 2025</span>
