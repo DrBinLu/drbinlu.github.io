@@ -37,6 +37,19 @@ title: DrBinLu.com
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>⚡🌍The world is electrifying — and copper powers it.</strong><br>
+    3/4 of copper goes to electrical uses.<br> 
+    Who holds the copper keys? 🇨🇱Chile 19% 🇵🇪Peru 10% 🇦🇺Australia 10% of global reserves<br>
+    🟠Big copper = big energy future
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 11 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1921314896865620391" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🚨 Iberia’s blackout is a warning – it can happen anywhere, anytime.</strong><br>
     Less inertia → faster frequency swings → blackout risk ⚠️<br>
     Storage and fast response are urgent. The grid must keep up — before it’s too late. ⚡
@@ -57,20 +70,6 @@ title: DrBinLu.com
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 9 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1920620885074989304" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇨🇦 Canada:<br>
-    #3 in crude oil exports - after 🇸🇦🇷🇺<br>
-    #4 in pipeline gas exports - after 🇳🇴 🇷🇺 🇺🇸</strong><br>
-    The next big win? Becoming a renewable energy superpower!<br>
-    🇦🇺 Australia’s in the race too.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 8 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1920288852087882223" target="_blank">🔗 View post</a>
   </div>
 </div>
 
