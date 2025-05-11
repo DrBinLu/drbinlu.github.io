@@ -1,7 +1,12 @@
 ---
 layout: default
-title: Turning Science into Stories
+title: DrBinLu.com
 ---
+
+<div class="page-header">
+  <h1 class="project-name">Turning Science into Stories</h1>
+  <h2 class="project-tagline">DrBinLu.com</h2>
+</div>
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-Q3TG1JXYV3"></script>
