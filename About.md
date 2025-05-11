@@ -34,6 +34,7 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 ## ☀️ Beyond Work
 
 When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
-
+<img src="/assets/images/Hiking.jpg" alt="Bushwalking by the beach" width="300" style="margin: 10px; border-radius: 10px;">
+<img src="/assets/images/BBQ.jpg" alt="Outdoor cooking" width="300" style="margin: 10px; border-radius: 10px;">
 
 [⬅ Return to Homepage](/)
