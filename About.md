@@ -41,8 +41,8 @@ When I’m not working, you’ll probably find me bushwalking, jogging by the be
 
 <div style="flex: 1; min-width: 200px;">
     <div style="display: flex; gap: 0px; justify-content: center;">
-        <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="height: 120px; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-        <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="height: 120px; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+        <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="height: 150px; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+        <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="height: 150px; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
     </div>
 </div>
 
