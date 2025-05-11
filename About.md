@@ -35,7 +35,7 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
 
-<div style="flex: 1; min-width: 600px;">
+<div style="flex: 1; min-width: 200px;">
 When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
 </div>
 
