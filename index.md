@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Turning science into stories
+title: Turning Science into Stories
 ---
 
 <!-- Google Analytics -->
