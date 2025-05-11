@@ -35,16 +35,16 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-top: 10px;">
 
-<div style="flex: 1; min-width: 200px;">
-When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
-</div>
+  <div style="flex: 1 1 300px; min-width: 200px;">
+    When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
+  </div>
 
-<div style="flex: 1; min-width: 200px;">
-    <div style="display: flex; gap: 0px; justify-content: center;">
-        <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="height: 150px; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-        <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="height: 150px; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+  <div style="flex: 1 1 300px; min-width: 200px;">
+    <div style="display: flex; gap: 0px; justify-content: center; flex-wrap: wrap;">
+      <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="max-width: 48%; height: auto; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+      <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="max-width: 48%; height: auto; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
     </div>
-</div>
+  </div>
 
 </div>
 
