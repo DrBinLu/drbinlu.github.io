@@ -4,8 +4,6 @@ title: Turning Science into Stories
 permalink: /about/
 ---
 
-[⬅ Return to Homepage](/)
-
 # About Me
 
 
@@ -39,9 +37,11 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 When I’m not working, you’ll probably find me bushwalking, jogging by the beach, or digging into a good playlist of Bach and folk rock. I’m also into pale ale and Riesling — and I love cooking and hunting down great food spots.
 </div>
 
-<div style="flex: 1; min-width: 100px; text-align: center;">
-    <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" height="100" style="border-radius: 15px; margin-bottom: 10px;"><br>
-    <img src="/images/BBQ.jpg" alt="Outdoor cooking" height="100" style="border-radius: 15px;">
+<div style="flex: 1; min-width: 250px;">
+    <div style="display: flex; gap: 10px; justify-content: center;">
+        <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="height: 180px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+        <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="height: 180px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+    </div>
 </div>
 
 </div>
