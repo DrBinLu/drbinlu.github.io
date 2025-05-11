@@ -37,6 +37,23 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🌍 Who leads the race to be a renewable energy superpower? @abcnews</strong><br>
+    Australia has it all:<br>
+    ☀️ Best solar & wind<br>
+    🪨 Critical minerals<br>
+    🌾 Vast land<br>
+    🤝 Strong trade ties<br>
+    🧠 Clean energy R&D leader<br>
+    🗳️ Public & political support<br>
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 12 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1921675080674738250" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>⚡🌍 The world is electrifying — and copper powers it.</strong><br>
     3/4 of copper goes to electrical uses.<br>
     Who holds the copper keys? 🇨🇱 Chile 19% 🇵🇪 Peru 10% 🇦🇺 Australia 10% of global reserves<br>
@@ -57,19 +74,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 10 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1920954878160957702" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚫 EU to ban all Russian gas by 2027</strong><br>
-    🇺🇸 US reserves: 20 trillion m³ = 15 years of US + Europe demand<br>
-    🇳🇴 Norway: 1.4 trillion m³ = just 3 years of Europe’s demand<br>
-    ☀️ Renewables aren’t a choice — they’re the future.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 9 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1920620885074989304" target="_blank">🔗 View post</a>
   </div>
 </div>
 
