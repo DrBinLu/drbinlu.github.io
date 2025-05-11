@@ -41,8 +41,8 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 
   <div style="flex: 1 1 300px; min-width: 200px;">
     <div style="display: flex; gap: 0px; justify-content: center; flex-wrap: wrap;">
-      <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="max-width: 48%; height: auto; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-      <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="max-width: 48%; height: auto; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+      <img src="/images/Hiking.jpg" alt="Bushwalking by the beach" style="max-width: 48%; height: 150px; position: relative; z-index: 2; margin-right: -10px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+      <img src="/images/BBQ.jpg" alt="Outdoor cooking" style="max-width: 48%; height: 150px; z-index: 1; border-radius: 12px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
     </div>
   </div>
 
