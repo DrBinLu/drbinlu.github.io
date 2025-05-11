@@ -1,6 +1,6 @@
 ---
 layout: default
-title: DrBinLu.com
+title: Turning science into stories
 ---
 
 <!-- Google Analytics -->
