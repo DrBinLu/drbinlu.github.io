@@ -37,6 +37,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Global collaboration + competition = clean energy innovation 💡</strong><br>
+    🌞 The rise of solar power:<br>
+    1839 🇫🇷 Becquerel discovers the photovoltaic effect<br>
+    1954 🇺🇸 Bell Labs develops cells → later power satellites<br>
+    1985 🇦🇺 UNSW cracks 20% efficiency<br>
+    2023 🇨🇳 China drives global manufacturing capacity past 1 TW    
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 13 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1922031910009897192" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌍 Who leads the race to be a renewable energy superpower? @abcnews</strong><br>
     Australia has it all:<br>
     ☀️ Best solar & wind<br>
@@ -62,18 +77,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 11 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1921314896865620391" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚨 Iberia’s blackout is a warning – it can happen anywhere, anytime.</strong><br>
-    Less inertia → faster frequency swings → blackout risk ⚠️<br>
-    Storage and fast response are urgent. The grid must keep up — before it’s too late. ⚡
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 10 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1920954878160957702" target="_blank">🔗 View post</a>
   </div>
 </div>
 
