@@ -37,6 +37,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🌍 The next global TERATREND is energy storage!</strong><br>
+    Today: 🔋batteries + 💧hydro = hundreds of GW<br>
+    Coming: 🚗EVs + 🏠buildings + 🫧hydrogen + 🔥e-fuels → Terawatts<br>
+    The storage boom is just starting.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 14 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1922399893689143778" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Global collaboration + competition = clean energy innovation 💡</strong><br>
     🌞 The rise of solar power:<br>
     1839 🇫🇷 Becquerel discovers the photovoltaic effect<br>
@@ -64,19 +77,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 12 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1921675080674738250" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡🌍 The world is electrifying — and copper powers it.</strong><br>
-    3/4 of copper goes to electrical uses.<br>
-    Who holds the copper keys? 🇨🇱 Chile 19% 🇵🇪 Peru 10% 🇦🇺 Australia 10% of global reserves<br>
-    🟠 Big copper = big energy future
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 11 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1921314896865620391" target="_blank">🔗 View post</a>
   </div>
 </div>
 
