@@ -17,7 +17,7 @@ title: Turning Science into Stories
 
 # Dr Bin Lu
 
-**Senior Research Fellow, The Australian National University**
+**Senior Research Fellow, Australian National University**
 
 <p style="margin-top: 10px;">
 👉 <a href="/about/">About Me</a>
