@@ -35,6 +35,21 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🇨🇦🇺🇸 The US counts on Canadian electricity.</strong><br>
+    Canada = #3 global electricity exporter<br>
+    US = #3 global electricity importer<br>
+    On both energy security and trade → the US needs Canada. ⚡️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 15 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1922795738859204789" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🌍 The next global TERATREND is energy storage!</strong><br>
@@ -63,22 +78,7 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌍 Who leads the race to be a renewable energy superpower? @abcnews</strong><br>
-    Australia has it all:<br>
-    ☀️ Best solar & wind<br>
-    🪨 Critical minerals<br>
-    🌾 Vast land<br>
-    🤝 Strong trade ties<br>
-    🧠 Clean energy R&D leader<br>
-    🗳️ Public & political support<br>
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 12 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1921675080674738250" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
