@@ -41,7 +41,7 @@ title: Turning Science into Stories
   <p style="margin: 0;">
     <strong>🚀 Africa is leapfrogging again.</strong><br>
     📞 Landlines → 📱 Mobiles<br>
-    🌐 Fixed broadband → 📶 Mobile internet<br> 
+    🌐 Fixed broadband → 📶 Mobile internet<br>
     Now:<br>
     ⚡ National grids → ☀️ Microgrids powered by renewables<br>
     Why build the past when you can skip to the future?
