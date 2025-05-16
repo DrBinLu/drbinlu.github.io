@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🇨🇳 China is stepping boldly into the renewable energy era.</strong><br>
+    In 2024 alone:<br>
+    ☀️ Global solar +452 GW → 62% by China<br>
+    🌬️ Global wind +113 GW → 71% by China<br>
+    Fossil fuel exporters: Time to pivot → green exports.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 16 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1923184285395067035" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🇨🇦🇺🇸 The US counts on Canadian electricity.</strong><br>
     Canada = #3 global electricity exporter<br>
     US = #3 global electricity importer<br>
@@ -63,20 +77,7 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Global collaboration + competition = clean energy innovation 💡</strong><br>
-    🌞 The rise of solar power:<br>
-    1839 🇫🇷 Becquerel discovers the photovoltaic effect<br>
-    1954 🇺🇸 Bell Labs develops cells → later power satellites<br>
-    1985 🇦🇺 UNSW cracks 20% efficiency<br>
-    2023 🇨🇳 China drives global manufacturing capacity past 1 TW    
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 13 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1922031910009897192" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
