@@ -36,6 +36,23 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🚀 Africa is leapfrogging again.</strong><br>
+    📞 Landlines → 📱 Mobiles<br>
+    🌐 Fixed broadband → 📶 Mobile internet<br> 
+    Now:<br>
+    ⚡ National grids → ☀️ Microgrids powered by renewables<br>
+    Why build the past when you can skip to the future?
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 17 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1923483590014480774" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🇨🇳 China is stepping boldly into the renewable energy era.</strong><br>
@@ -64,18 +81,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌍 The next global TERATREND is energy storage!</strong><br>
-    Today: 🔋batteries + 💧hydro = hundreds of GW<br>
-    Coming: 🚗EVs + 🏠buildings + 🫧hydrogen + 🔥e-fuels → Terawatts<br>
-    The storage boom is just starting.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 14 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1922399893689143778" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
