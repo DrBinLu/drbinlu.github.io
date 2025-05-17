@@ -39,6 +39,22 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🔥 From diesel fumes to clean power.</strong><br>
+    Remote communities in Latin America — and Australia — are switching to solar microgrids. 🌞🔋<br>
+    Real impact:<br>
+    ✅ Affordable and clean energy<br>
+    ✅ Better health, equality, resilience 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 18 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1923855989125808439" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🚀 Africa is leapfrogging again.</strong><br>
     📞 Landlines → 📱 Mobiles<br>
     🌐 Fixed broadband → 📶 Mobile internet<br>
@@ -66,25 +82,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1923184285395067035" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇨🇦🇺🇸 The US counts on Canadian electricity.</strong><br>
-    Canada = #3 global electricity exporter<br>
-    US = #3 global electricity importer<br>
-    On both energy security and trade → the US needs Canada. ⚡️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 15 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1922795738859204789" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
-
 
 
 <p style="text-align: right; margin-top: 1.5em;">
