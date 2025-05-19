@@ -39,6 +39,23 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🫧 The hydrogen economy is gaining steam — but demand must scale.</strong><br>
+    Today’s use? Oil refining & ammonia<br>
+    Tomorrow:<br>
+    ⚙️ Green metals<br>
+    ✈️ Green fuels<br>
+    ⚡ Green electrons<br>
+    To unlock this future → decarbonise industry now.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 19 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1924277096689610763" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🔥 From diesel fumes to clean power.</strong><br>
     Remote communities in Latin America — and Australia — are switching to solar microgrids. 🌞🔋<br>
     Real impact:<br>
@@ -65,21 +82,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 17 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1923483590014480774" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇨🇳 China is stepping boldly into the renewable energy era.</strong><br>
-    In 2024 alone:<br>
-    ☀️ Global solar +452 GW → 62% by China<br>
-    🌬️ Global wind +113 GW → 71% by China<br>
-    Fossil fuel exporters: Time to pivot → green exports.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 16 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1923184285395067035" target="_blank">🔗 View post</a>
   </div>
 </div>
 
