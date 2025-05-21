@@ -36,6 +36,21 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>💡 Cheaper. Cleaner. Smarter.</strong><br>
+    In 2025, wholesale electricity costs A$130/MWh ⚡️<br>
+    A 100% renewables + storage system? Just A$70–99/MWh ☀️<br>
+    Australia can have cheaper, safer electricity — if we choose it.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 21 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1925005410467250641" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>How fast do clean techs pay off in Australia (Canberra)?</strong><br>
@@ -65,21 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 19 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1924277096689610763" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🔥 From diesel fumes to clean power.</strong><br>
-    Remote communities in Latin America — and Australia — are switching to solar microgrids. 🌞🔋<br>
-    Real impact:<br>
-    ✅ Affordable and clean energy<br>
-    ✅ Better health, equality, resilience 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 18 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1923855989125808439" target="_blank">🔗 View post</a>
   </div>
 </div>
 
