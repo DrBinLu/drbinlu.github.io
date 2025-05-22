@@ -39,6 +39,23 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>⚡ Which storage tech wins the race?</strong><br>
+    🔋 Batteries → Cities<br>
+    💧 Hydro → Reservoir hills<br>
+    🔥 Thermal → Industry<br>
+    🫧 Hydrogen → Exports<br>
+    No silver bullet. The future runs on a smart mix of storage.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 22 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1925359000616657245" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>💡 Cheaper. Cleaner. Smarter.</strong><br>
     In 2025, wholesale electricity costs A$130/MWh ⚡️<br>
     A 100% renewables + storage system? Just A$70–99/MWh ☀️<br>
@@ -63,23 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 20 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1924639993513050420" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🫧 The hydrogen economy is gaining steam — but demand must scale.</strong><br>
-    Today’s use? Oil refining & ammonia<br>
-    Tomorrow:<br>
-    ⚙️ Green metals<br>
-    ✈️ Green fuels<br>
-    ⚡ Green electrons<br>
-    To unlock this future → decarbonise industry now.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 19 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1924277096689610763" target="_blank">🔗 View post</a>
   </div>
 </div>
 
