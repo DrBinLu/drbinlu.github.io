@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: /GridStability/
+permalink: /gridstability/
 ---
 
 <meta http-equiv="refresh" content="0; url=/articles/GridStability_NetZero2025.pdf" />
