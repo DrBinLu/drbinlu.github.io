@@ -156,7 +156,7 @@ title: Turning Science into Stories
       <a href="/gridstability" target="_blank">
         <strong>Stabilising 100% Renewable Grids: The Integrated FIRM Strategy</strong>
       </a><br>
-      FIRM = Flexible. Integrated. Responsive. Massive. — an integrated strategy to unlock system-wide flexibility for grid stability.
+      FIRM = Flexible. Integrated. Responsive. Massive. — unlocking system-wide flexibility for grid stability.
     </div>
   </div>
 
