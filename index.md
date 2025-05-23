@@ -39,6 +39,22 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🚗 EV batteries last 10–20 years.</strong><br>
+    But the minerals inside—lithium, cobalt, nickel—can be reused again and again. ♻️@IEA<br>
+    As millions of EVs hit the roads, recycling becomes a game-changer:<br>
+    🌍 For the planet<br>
+    ⚡ For energy security
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 24 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1926032221611119079" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌞 Renewables are booming.</strong><br>
     But without grid flexibility, the future isn’t stable.<br>
     🔑 The fix? FIRM:<br>
@@ -70,18 +86,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>💡 Cheaper. Cleaner. Smarter.</strong><br>
-    In 2025, wholesale electricity costs A$130/MWh ⚡️<br>
-    A 100% renewables + storage system? Just A$70–99/MWh ☀️<br>
-    Australia can have cheaper, safer electricity — if we choose it.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 21 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1925005410467250641" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
