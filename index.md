@@ -90,56 +90,6 @@ title: Turning Science into Stories
 
 ---
 
-## 📰 In the News
-
-<div style="display: flex; flex-direction: column; gap: 20px;">
-
-  <div style="display: flex; gap: 15px;">
-    <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
-        <img src="/images/act-electrification.jpg" alt="All-electric ACT"
-             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-      </a>
-    </div>
-    <div>
-      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
-        <strong>ANU experts to power path to all-electric ACT</strong>
-      </a>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 15px;">
-    <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
-        <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
-             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-      </a>
-    </div>
-    <div>
-      <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
-        <strong>ANU researcher awarded international hydrogen research fellowship</strong>
-      </a>
-    </div>
-  </div>
-
-  <div style="display: flex; gap: 15px;">
-    <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
-        <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
-             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
-      </a>
-    </div>
-    <div>
-      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
-        <strong>ICEDS Research Snapshots: Industrial Hydrogen Storage</strong>
-      </a>
-    </div>
-  </div>
-
-</div>
-
----
-
 ## 🔬 Research Highlights
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
@@ -228,6 +178,55 @@ title: Turning Science into Stories
 
 ---
 
+## 📰 In the News
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
+        <img src="/images/act-electrification.jpg" alt="All-electric ACT"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
+        <strong>ANU experts to power path to all-electric ACT</strong>
+      </a>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
+        <img src="/images/hydrogen-fellowship.jpg" alt="Hydrogen Fellowship"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://iceds.anu.edu.au/research/research-stories/anu-researcher-awarded-international-hydrogen-research-fellowship" target="_blank">
+        <strong>ANU researcher awarded international hydrogen research fellowship</strong>
+      </a>
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
+        <img src="https://img.youtube.com/vi/hQXe41tmgPI/hqdefault.jpg" alt="YouTube Interview"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://www.youtube.com/watch?v=hQXe41tmgPI" target="_blank">
+        <strong>ICEDS Research Snapshots: Industrial Hydrogen Storage</strong>
+      </a>
+    </div>
+  </div>
+
+</div>
+
+---
 
 
 ## 🌍 Outreach
