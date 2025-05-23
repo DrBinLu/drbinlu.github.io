@@ -39,6 +39,22 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🌞 Renewables are booming.</strong><br>
+    But without grid flexibility, the future isn’t stable.<br>
+    🔑 The fix? FIRM:<br>
+    Flexible. Integrated. Responsive. Massive.<br>
+    📰 Just out in Net Zero Journal<br>
+    👉 https://www.drbinlu.com/gridstability
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 23 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1925713460639215826" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>⚡ Which storage tech wins the race?</strong><br>
     🔋 Batteries → Cities<br>
     💧 Hydro → Reservoir hills<br>
@@ -68,20 +84,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>How fast do clean techs pay off in Australia (Canberra)?</strong><br>
-    🌞 Solar: 3 yrs<br>
-    ⚡️ Electric heating: 3–7 yrs<br>
-    🔋 Batteries: 8 yrs<br>
-    🚗 EVs: ~10 yrs — and falling fast<br>
-    Game-changing? You bet. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 20 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1924639993513050420" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 <p style="text-align: right; margin-top: 1.5em;">
