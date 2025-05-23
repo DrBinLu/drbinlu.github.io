@@ -144,6 +144,26 @@ title: Turning Science into Stories
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="/gridstability" target="_blank">
+        <img src="/images/regrowth.jpg" alt="RE Growth"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="/gridstability" target="_blank">
+        <strong>Stabilising 100% Renewable Grids: The Integrated FIRM Strategy</strong>
+      </a><br>
+      FIRM = Flexible. Integrated. Responsive. Massive. — an integrated strategy to unlock system-wide flexibility for grid stability.
+    </div>
+  </div>
+
+
+
+
+
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0360544221016352?via%3Dihub" target="_blank">
