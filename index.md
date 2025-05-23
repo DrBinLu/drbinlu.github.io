@@ -148,7 +148,7 @@ title: Turning Science into Stories
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="/gridstability" target="_blank">
-        <img src="/images/regrowth.jpg" alt="RE Growth"
+        <img src="/images/REGrowth.jpg" alt="RE Growth"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
