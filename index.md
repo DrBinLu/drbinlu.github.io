@@ -37,6 +37,21 @@ title: Turning Science into Stories
 
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>⚡️ Clean energy is scaling fast — so is the recycling opportunity.</strong><br>
+    Each year: millions of 🔆 🌬️ renewables and 🚗 EVs hit the market.<br>
+    At end-of-life: millions of tonnes of valuable materials.<br>
+    ♻️ The future? A circular economy.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 25 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1926390824562024537" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🚗 EV batteries last 10–20 years.</strong><br>
@@ -67,29 +82,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1925713460639215826" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡ Which storage tech wins the race?</strong><br>
-    🔋 Batteries → Cities<br>
-    💧 Hydro → Reservoir hills<br>
-    🔥 Thermal → Industry<br>
-    🫧 Hydrogen → Exports<br>
-    No silver bullet. The future runs on a smart mix of storage.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 22 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1925359000616657245" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
-
-
 
 
 <p style="text-align: right; margin-top: 1.5em;">
