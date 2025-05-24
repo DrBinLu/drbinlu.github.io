@@ -133,7 +133,7 @@ title: Turning Science into Stories
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0360544220327857?via%3Dihub" target="_blank">
         <img src="/images/oz-lcoe.jpg" alt="Zero-carbon Australia"
-             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px; border: 0.5px solid #ccc;">
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px; border: 0.5px solid #ccc; margin-left: 4px;">
       </a>
     </div>
     <div>
