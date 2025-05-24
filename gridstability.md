@@ -1,7 +1,7 @@
 ---
-layout: none
+layout: default
+title: Grid stability
 permalink: /gridstability/
 ---
 
-<meta http-equiv="refresh" content="0; url=/articles/GridStability_NetZero2025.pdf" />
-If you're not redirected, <a href="/articles/GridStability_NetZero2025.pdf">click here to read the full article (PDF)</a>.
+<iframe src="/articles/GridStability_NetZero2025.pdf" width="100%" height="800px" style="border: none;"></iframe>
