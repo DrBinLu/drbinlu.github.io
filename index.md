@@ -35,7 +35,18 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
-
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Fun fact:<br>
+    ⚛️ 430 of the world’s 439 nuclear reactors are north of the equator.<br>
+    ⛏️ Yet half the uranium is in the south — 28% in Australia.</strong><br>
+    Energy transitions depend on where resources are — and how they’re connected globally. 🌐
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 26 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1926693438885425320" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
@@ -63,23 +74,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 24 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1926032221611119079" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌞 Renewables are booming.</strong><br>
-    But without grid flexibility, the future isn’t stable.<br>
-    🔑 The fix? FIRM:<br>
-    Flexible. Integrated. Responsive. Massive.<br>
-    📰 Just out in Net Zero Journal<br>
-    👉 https://www.drbinlu.com/gridstability
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 23 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1925713460639215826" target="_blank">🔗 View post</a>
   </div>
 </div>
 
