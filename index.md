@@ -38,6 +38,24 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🚀Western Australia is making a global hydrogen play.<br>
+    By May 2025: 26 of Australia’s 91 hydrogen projects are in WA.</strong><br>
+    🏗️Mt/yr-scale hubs:<br>
+    • Australian Renewable Energy Hub<br>
+    • Western Green Energy Hub<br>
+    WA isn’t just in the race — it’s setting the pace.⚡
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 28 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1927482298708132162" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>⚡️ Big targets ahead:<br>
     🇬🇧 UK 95% clean electricity by 2030<br>
     🇦🇺 Australia 82% renewable electricity by 2030</strong><br>
@@ -63,20 +81,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 26 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1926693438885425320" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡️ Clean energy is scaling fast — so is the recycling opportunity.</strong><br>
-    Each year: millions of 🔆 🌬️ renewables and 🚗 EVs hit the market.<br>
-    At end-of-life: millions of tonnes of valuable materials.<br>
-    ♻️ The future? A circular economy.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 25 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1926390824562024537" target="_blank">🔗 View post</a>
   </div>
 </div>
 
