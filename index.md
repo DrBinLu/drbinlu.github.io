@@ -35,6 +35,22 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>⚡️ Big targets ahead: 🇬🇧 UK 95% clean electricity by 2030 🇦🇺 Australia 82% renewable electricity by 2030</strong><br>
+    In 2024: UK at 65%, Australia at 40%<br>
+    The gap is real.<br>
+    🌞 We need more renewables — and smarter grids to keep pace.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 27 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1927154117794787726" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Fun fact:<br>
@@ -59,21 +75,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 25 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1926390824562024537" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚗 EV batteries last 10–20 years.</strong><br>
-    But the minerals inside—lithium, cobalt, nickel—can be reused again and again. ♻️@IEA<br>
-    As millions of EVs hit the roads, recycling becomes a game-changer:<br>
-    🌍 For the planet<br>
-    ⚡ For energy security
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 24 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1926032221611119079" target="_blank">🔗 View post</a>
   </div>
 </div>
 
