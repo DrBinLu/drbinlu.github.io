@@ -38,7 +38,9 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>⚡️ Big targets ahead: 🇬🇧 UK 95% clean electricity by 2030 🇦🇺 Australia 82% renewable electricity by 2030</strong><br>
+    <strong>⚡️ Big targets ahead:<br>
+    🇬🇧 UK 95% clean electricity by 2030<br>
+    🇦🇺 Australia 82% renewable electricity by 2030</strong><br>
     In 2024: UK at 65%, Australia at 40%<br>
     The gap is real.<br>
     🌞 We need more renewables — and smarter grids to keep pace.
