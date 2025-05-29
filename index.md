@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🛢️ Oil & gas industry has a shot at reinvention — turning renewables into hydrogen fuels.</strong><br>
+    Perfect for ✈️ planes, 🚢 ships & 🏭 heavy industry — where ⚡direct electrification won’t cut it.<br>
+    That’s the next energy play.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 30 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1928214989241831612" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🔥 Cooking shouldn’t kill.<br>
     Yet 3 million+ people die each year from dirty cooking with fuels like wood, charcoal & coal.</strong><br>
     🌍 In Africa alone: over 700,000 lives lost annually.<br>
@@ -64,24 +78,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 28 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1927482298708132162" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡️ Big targets ahead:<br>
-    🇬🇧 UK 95% clean electricity by 2030<br>
-    🇦🇺 Australia 82% renewable electricity by 2030</strong><br>
-    In 2024: UK at 65%, Australia at 40%<br>
-    The gap is real.<br>
-    🌞 We need more renewables — and smarter grids to keep pace.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 27 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1927154117794787726" target="_blank">🔗 View post</a>
   </div>
 </div>
 
