@@ -38,6 +38,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>♨️ Geothermal is heating up in the U.S. 🇺🇸</strong><br>
+    Traditionally: convective hydrothermal systems in volcanic zones 🌋<br>
+    Now: engineered systems tapping deep rock heat 🛠️<br>
+    The latest USGS finding shows what’s next.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 31 May 2025</span>
+    <a href="https://x.com/DrBinLu/status/1928583599114096898" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🛢️ Oil & gas industry has a shot at reinvention — turning renewables into hydrogen fuels.</strong><br>
     Perfect for ✈️ planes, 🚢 ships & 🏭 heavy industry — where ⚡direct electrification won’t cut it.<br>
     That’s the next energy play.
@@ -61,23 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 29 May 2025</span>
     <a href="https://x.com/DrBinLu/status/1927852867190210901" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚀Western Australia is making a global hydrogen play.<br>
-    By May 2025: 26 of Australia’s 91 hydrogen projects are in WA.</strong><br>
-    🏗️Mt/yr-scale hubs:<br>
-    • Australian Renewable Energy Hub<br>
-    • Western Green Energy Hub<br>
-    WA isn’t just in the race — it’s setting the pace.⚡
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 28 May 2025</span>
-    <a href="https://x.com/DrBinLu/status/1927482298708132162" target="_blank">🔗 View post</a>
   </div>
 </div>
 
