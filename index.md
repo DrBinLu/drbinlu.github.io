@@ -38,7 +38,8 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>🚗 EVs = batteries on wheels Each one holds 21–118 kWh (and rising!)</strong><br>
+    <strong>🚗 EVs = batteries on wheels</strong><br>
+    Each one holds 21–118 kWh (and rising!)<br>
     🇦🇺 Electrify Australia’s fleet? That’s 1 TWh of mobile storage.<br>
     A game-changing boost for a 100% renewable grid.<br>
     Driving isn’t the only power EVs bring. ⚡️
