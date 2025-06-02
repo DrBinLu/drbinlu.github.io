@@ -38,7 +38,7 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">    
-    <strong>Net zero needs more than just renewables — it needs easy, fair, accessible home upgrades.</strong><br>
+    <strong>Net zero needs more than just renewables — it needs easy, accessible home upgrades.</strong><br>
     Recommendations from our ANU team:<br>
     🏠 One-stop home electrification<br>
     ☀️ Solar for renters<br>
