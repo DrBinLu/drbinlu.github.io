@@ -231,12 +231,12 @@ title: Turning Science into Stories
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
-      <a href="https://iceds.anu.edu.au/files/ANU%20Submission%20to%20the%20ACT%20Integrated%20Energy%20Plan.pdf" target="_blank">
+      <a href="/articles/Submission_ACT2023.pdf" target="_blank">
         <img src="/images/anu-submission.png" alt="ANU Submission" style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
     <div>
-      <a href="https://iceds.anu.edu.au/files/ANU%20Submission%20to%20the%20ACT%20Integrated%20Energy%20Plan.pdf" target="_blank">
+      <a href="/articles/Submission_ACT2023.pdf" target="_blank">
         <strong>ANU Submission to the Australian Capital Territory's Integrated Energy Plan</strong>
       </a>
     </div>
