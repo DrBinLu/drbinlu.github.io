@@ -44,7 +44,7 @@ title: Turning Science into Stories
     ☀️ Solar for renters<br>
     👷 Trade upskilling<br>
     🧠 Smarter data & equity<br>
-    More: <a href="https://www.drbinlu.com/articles/Submission_ACT2023.pdf" target="_blank">Read the full submission</a>    
+    <a href="https://www.drbinlu.com/articles/Submission_ACT2023.pdf" target="_blank">Read the full submission</a>    
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 June 2025</span>
