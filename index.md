@@ -37,6 +37,22 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>☀️ U.S. solar’s top cost? Still hardware.<br>
+    62% for utility-scale<br>
+    46% for residential</strong><br>
+    🟦 Modules, ⚡ inverters, 🔩 racking — now under extra pressure from tariffs.<br>
+    But innovation + economies of scale are keeping solar on a strong growth path.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 4 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1930015644738826256" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">    
     <strong>Net zero needs more than just renewables — it needs easy, accessible home upgrades.</strong><br>
     Recommendations from our ANU team:<br>
@@ -64,21 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 2 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1929317053325783498" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡️ Energy security, the Kiwi way:</strong><br>
-    💧 Hydro + 🌋 Geothermal = three-quarters of New Zealand’s grid<br>
-    Add ☀️ Solar & 🌬️ Wind — supercharging the shift to a secure energy future.<br>
-    Secure. Resilient. Future-ready.  
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 1 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1928960675583275459" target="_blank">🔗 View post</a>
   </div>
 </div>
 
