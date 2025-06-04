@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Renewables vary — from minutes to months.</strong><br>
+    ☀️ Darlington Point (orange) & 🌬️ Coopers Gap (blue) show just how dynamic they are.<br>
+    With the FIRM strategy — Flexible, Integrated, Responsive, Massive — we plan for variability and manage it by design.<br>
+    More: https://www.drbinlu.com/gridstability   
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 5 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1930387540852519238" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>☀️ U.S. solar’s top cost? Still hardware.<br>
     62% for utility-scale<br>
     46% for residential</strong><br>
@@ -65,21 +79,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1929651053299224584" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚗 EVs = batteries on wheels</strong><br>
-    Each one holds 21–118 kWh (and rising!)<br>
-    🇦🇺 Electrify Australia’s fleet? That’s 1 TWh of mobile storage.<br>
-    A game-changing boost for a 100% renewable grid.<br>
-    Driving isn’t the only power EVs bring. ⚡️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 2 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1929317053325783498" target="_blank">🔗 View post</a>
   </div>
 </div>
 
