@@ -37,6 +37,20 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">    
+    <strong>💰 Global energy investment: $2.7 trillion (2015) → $3.3 trillion (2025)<br>
+    🌞 Clean energy share: 45% (2015) → 65% (2025)</strong><br>
+    🌍 142 countries now target net zero.<br>
+    Getting there? We need to add 1000 GW of solar & wind every year — 2× 2024’s pace.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 6 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1930917175688347679" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Renewables vary — from minutes to months.</strong><br>
     ☀️ Darlington Point (orange) & 🌬️ Coopers Gap (blue) show just how dynamic they are.<br>
@@ -61,24 +75,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 4 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1930015644738826256" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">    
-    <strong>Net zero needs more than just renewables — it needs easy, accessible home upgrades.</strong><br>
-    Recommendations from our ANU team:<br>
-    🏠 One-stop home electrification<br>
-    ☀️ Solar for renters<br>
-    👷 Trade upskilling<br>
-    🧠 Smarter data & equity<br>
-    <a href="https://www.drbinlu.com/articles/Submission_ACT2023.pdf" target="_blank">Read the full submission</a>    
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1929651053299224584" target="_blank">🔗 View post</a>
   </div>
 </div>
 
