@@ -37,6 +37,21 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>☀️ Rooftop solar? 🇦🇺 Australia leads the world: ~1 kW per person.</strong><br>
+    But not everyone can install it.<br>
+    Solar trading = ⚡ grid relief  + 🏘️ clean energy access for all.<br>
+    Fairer. Smarter. A 100% renewable future. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 9 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1931863984837370147" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">    
     <strong>💰 Global energy investment: $2.7 trillion (2015) → $3.3 trillion (2025)<br>
     🌞 Clean energy share: 45% (2015) → 65% (2025)</strong><br>
@@ -50,6 +65,7 @@ title: Turning Science into Stories
 </div>
 
 
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Renewables vary — from minutes to months.</strong><br>
@@ -60,21 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 5 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1930387540852519238" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>☀️ U.S. solar’s top cost? Still hardware.<br>
-    62% for utility-scale<br>
-    46% for residential</strong><br>
-    🟦 Modules, ⚡ inverters, 🔩 racking — now under extra pressure from tariffs.<br>
-    But innovation + economies of scale are keeping solar on a strong growth path.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 4 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1930015644738826256" target="_blank">🔗 View post</a>
   </div>
 </div>
 
