@@ -38,6 +38,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Data centres = digital heavy industry<br>
+    Vital to modern life — but they must power up clean and fair. ⚡</strong><br>
+    Our forthcoming WA modelling shows onsite solar ☀️ + storage 🔋 can deliver 24/7 green power for under 10 cents/kWh (A$).<br>
+    Let’s move data to the sun.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 10 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1932214690786275408" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>☀️ Rooftop solar? 🇦🇺 Australia leads the world: ~1 kW per person.</strong><br>
     But not everyone can install it.<br>
     Solar trading = ⚡ grid relief  + 🏘️ clean energy access for all.<br>
@@ -64,20 +79,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Renewables vary — from minutes to months.</strong><br>
-    ☀️ Darlington Point (orange) & 🌬️ Coopers Gap (blue) show just how dynamic they are.<br>
-    With the FIRM strategy — Flexible, Integrated, Responsive, Massive — we plan for variability and manage it by design.<br>
-    More: https://www.drbinlu.com/gridstability   
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 5 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1930387540852519238" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
