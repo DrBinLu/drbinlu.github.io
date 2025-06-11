@@ -36,6 +36,23 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🌍 Numerous studies agree:<br>
+    Scaling up renewables is the fastest, most effective path to net zero.</strong><br>
+    Time to pivot:<br>
+    ⚡ Clean electricity 🔌 Electrify everything 💧 Green hydrogen & e-fuels<br>
+    Let’s plug into the future.   
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 11 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1932669546219122843" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Data centres = digital heavy industry<br>
@@ -61,21 +78,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 9 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1931863984837370147" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">    
-    <strong>💰 Global energy investment: $2.7 trillion (2015) → $3.3 trillion (2025)<br>
-    🌞 Clean energy share: 45% (2015) → 65% (2025)</strong><br>
-    🌍 142 countries now target net zero.<br>
-    Getting there? We need to add 1000 GW of solar & wind every year — 2× 2024’s pace.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 6 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1930917175688347679" target="_blank">🔗 View post</a>
   </div>
 </div>
 
