@@ -40,7 +40,8 @@ title: Turning Science into Stories
     <strong>⚡ Electrify everything = HALF the energy use</strong><br>
     Why? Electric tech is insanely efficient:<br>
     🚗 Cars: 4× better than oil<br>
-    🏠 Homes: heat pumps = 4× gas heating 🏭 Industry: 2–4× more efficient (heating & machinery)<br>
+    🏠 Homes: heat pumps = 4× gas heating<br>
+    🏭 Industry: 2–4× more efficient (heating & machinery)<br>
     Same output. Way less energy. 
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
