@@ -35,6 +35,20 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>⚡ Electrify everything = HALF the energy use</strong><br>
+    Why? Electric tech is insanely efficient:<br>
+    🚗 Cars: 4× better than oil<br>
+    🏠 Homes: heat pumps = 4× gas heating 🏭 Industry: 2–4× more efficient (heating & machinery)<br>
+    Same output. Way less energy. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 12 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1932998742732648491" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
@@ -65,22 +79,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1932214690786275408" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>☀️ Rooftop solar? 🇦🇺 Australia leads the world: ~1 kW per person.</strong><br>
-    But not everyone can install it.<br>
-    Solar trading = ⚡ grid relief  + 🏘️ clean energy access for all.<br>
-    Fairer. Smarter. A 100% renewable future. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 9 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1931863984837370147" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
