@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🚗 EVs + 🚿 hot water storage = hidden grid flexibility</strong><br>
+    In Canberra, for example, they can shift over 5 kWh/day per person —<br>
+    that’s 1/3 of average daily electricity use. ⚡️<br>
+    Built-in grid flexibility, embedded in daily life.    
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 14 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1933695010874286357" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>☀️ Energy is local.<br>
     But the clean energy future is global.</strong><br>
     Renewables are everywhere—but the transition depends on:<br>
@@ -66,22 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 12 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1932998742732648491" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌍 Numerous studies agree:<br>
-    Scaling up renewables is the fastest, most effective path to net zero.</strong><br>
-    Time to pivot:<br>
-    ⚡ Clean electricity 🔌 Electrify everything 💧 Green hydrogen & e-fuels<br>
-    Let’s plug into the future.   
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 11 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1932669546219122843" target="_blank">🔗 View post</a>
   </div>
 </div>
 
