@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Oil jumped 10% after Israel-Iran conflict—then settled back.</strong><br>
+    In fact, 80% of oil reserves are held by just 8 countries:<br>
+    🇻🇪Venezuela 🇸🇦Saudi Arabia 🇨🇦Canada 🇮🇷Iran 🇮🇶Iraq 🇷🇺Russia 🇰🇼Kuwait 🇦🇪UAE<br>
+    #EnergySecurity starts with the shift to renewables. 🌞 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 15 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1934177873226867153" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🚗 EVs + 🚿 hot water storage = hidden grid flexibility</strong><br>
     In Canberra, for example, they can shift over 5 kWh/day per person —<br>
     that’s 1/3 of average daily electricity use. ⚡️<br>
@@ -64,22 +78,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 13 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1933406118136705519" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚡ Electrify everything = HALF the energy use</strong><br>
-    Why? Electric tech is insanely efficient:<br>
-    🚗 Cars: 4× better than oil<br>
-    🏠 Homes: heat pumps = 4× gas heating<br>
-    🏭 Industry: 2–4× more efficient (heating & machinery)<br>
-    Same output. Way less energy. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 12 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1932998742732648491" target="_blank">🔗 View post</a>
   </div>
 </div>
 
