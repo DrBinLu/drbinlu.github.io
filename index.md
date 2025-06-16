@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🌍 Green energy trade will reshape global energy flows.</strong><br>
+    🇦🇺Australia 🇨🇱Chile 🇺🇸USA 🇲🇦Morocco 🇸🇦Saudi Arabia → key exporters<br>
+    🇩🇪Germany 🇯🇵Japan 🇰🇷South Korea → major importers<br>
+    Strategic trade cuts costs, eases infrastructure & speeds up the transition. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 16 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1934483800484106376" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Oil jumped 10% after Israel-Iran conflict—then settled back.</strong><br>
     In fact, 80% of oil reserves are held by just 8 countries:<br>
     🇻🇪Venezuela 🇸🇦Saudi Arabia 🇨🇦Canada 🇮🇷Iran 🇮🇶Iraq 🇷🇺Russia 🇰🇼Kuwait 🇦🇪UAE<br>
@@ -60,24 +74,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 14 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1933695010874286357" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>☀️ Energy is local.<br>
-    But the clean energy future is global.</strong><br>
-    Renewables are everywhere—but the transition depends on:<br>
-    🪨 Critical minerals<br>
-    🏭 Green industry<br>
-    💡 Tech R&D<br>
-    🌏 Open markets<br>
-    The future of energy runs on global trade & cooperation.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 13 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1933406118136705519" target="_blank">🔗 View post</a>
   </div>
 </div>
 
