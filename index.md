@@ -37,6 +37,20 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>Vietnam’s clean energy boom shows what ambition can achieve.<br>
+    ⚠️ The next challenge: ensuring financial sustainability and investor trust.</strong><br>
+    The ACT hit 100% renewables via reverse auctions.<br>
+    🇻🇳 can build on 🇦🇺 lessons to power a stronger, greener future.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 17 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1934856425806942563" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🌍 Green energy trade will reshape global energy flows.</strong><br>
     🇦🇺Australia 🇨🇱Chile 🇺🇸USA 🇲🇦Morocco 🇸🇦Saudi Arabia → key exporters<br>
@@ -62,21 +76,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1934177873226867153" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🚗 EVs + 🚿 hot water storage = hidden grid flexibility</strong><br>
-    In Canberra, for example, they can shift over 5 kWh/day per person —<br>
-    that’s 1/3 of average daily electricity use. ⚡️<br>
-    Built-in grid flexibility, embedded in daily life.    
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 14 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1933695010874286357" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
