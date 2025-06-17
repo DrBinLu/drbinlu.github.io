@@ -37,6 +37,18 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🌬️ Wind forecast errors can quadruple as the forecast window grows from minutes to hours — but AI is rising to the challenge.</strong><br>
+    The @IEA Energy and AI Observatory shows how AI is transforming forecasting, planning & operations across the energy sector. ⚡️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 18 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1935118459253440973" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>Vietnam’s clean energy boom shows what ambition can achieve.<br>
     ⚠️ The next challenge: ensuring financial sustainability and investor trust.</strong><br>
@@ -60,20 +72,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 16 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1934483800484106376" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Oil jumped 10% after Israel-Iran conflict—then settled back.</strong><br>
-    In fact, 80% of oil reserves are held by just 8 countries:<br>
-    🇻🇪Venezuela 🇸🇦Saudi Arabia 🇨🇦Canada 🇮🇷Iran 🇮🇶Iraq 🇷🇺Russia 🇰🇼Kuwait 🇦🇪UAE<br>
-    #EnergySecurity starts with the shift to renewables. 🌞 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 15 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1934177873226867153" target="_blank">🔗 View post</a>
   </div>
 </div>
 
