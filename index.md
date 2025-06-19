@@ -38,6 +38,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>⚠️ Timeline of Iberia’s 28 April blackout:</strong><br>
+    12:03 Grid hit by 0.6 Hz oscillation<br>
+    12:16 Second hit 12:19 Third hit<br>
+    12:32:57–12:33:18 Generators trip as voltage surges 12:33:18–12:33:30 Chain reaction→Lost sync→Full blackout<br>
+    One minute. Total collapse.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 19 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1935568039283683812" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌬️ Wind forecast errors can quadruple as the forecast window grows from minutes to hours — but AI is rising to the challenge.</strong><br>
     The @IEA Energy and AI Observatory shows how AI is transforming forecasting, planning & operations across the energy sector. ⚡️
   </p>
@@ -58,20 +73,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 17 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1934856425806942563" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌍 Green energy trade will reshape global energy flows.</strong><br>
-    🇦🇺Australia 🇨🇱Chile 🇺🇸USA 🇲🇦Morocco 🇸🇦Saudi Arabia → key exporters<br>
-    🇩🇪Germany 🇯🇵Japan 🇰🇷South Korea → major importers<br>
-    Strategic trade cuts costs, eases infrastructure & speeds up the transition. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 16 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1934483800484106376" target="_blank">🔗 View post</a>
   </div>
 </div>
 
