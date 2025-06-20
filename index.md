@@ -37,6 +37,22 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>⚡ Electrification is key to net zero—but adoption lags behind ambition.</strong><br>
+    Why?<br>
+    💰 High upfront costs<br>
+    🛠️ Disjointed installs<br>
+    🚫 Fragmented support<br>
+    🇦🇺 Australia’s first community-led initiative shows what’s possible with the right support & coordination. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 20 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1935912445794796010" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>⚠️ Timeline of Iberia’s 28 April blackout:</strong><br>
     12:03 Grid hit by 0.6 Hz oscillation<br>
@@ -62,19 +78,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>Vietnam’s clean energy boom shows what ambition can achieve.<br>
-    ⚠️ The next challenge: ensuring financial sustainability and investor trust.</strong><br>
-    The ACT hit 100% renewables via reverse auctions.<br>
-    🇻🇳 can build on 🇦🇺 lessons to power a stronger, greener future.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 17 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1934856425806942563" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
