@@ -36,6 +36,23 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>☀️ Ultra-low-cost solar is on the horizon—and it could transform everything.</strong><br>
+    Cheap data unlocked smartphones, cloud tech, and the rise of AI.<br>
+    Cheap solar will power the next wave:<br>
+    🫧 Green hydrogen<br>
+    💧 Desalination<br>
+    🧠 AI-powered industry
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 21 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1936281312031330803" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>⚡ Electrification is key to net zero—but adoption lags behind ambition.</strong><br>
@@ -63,18 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 19 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1935568039283683812" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌬️ Wind forecast errors can quadruple as the forecast window grows from minutes to hours — but AI is rising to the challenge.</strong><br>
-    The @IEA Energy and AI Observatory shows how AI is transforming forecasting, planning & operations across the energy sector. ⚡️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 18 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1935118459253440973" target="_blank">🔗 View post</a>
   </div>
 </div>
 
