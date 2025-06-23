@@ -37,6 +37,21 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>🇬🇧 UK = one of the most expensive places on Earth for electricity</strong><br>
+    In 2024: 🏭 Industry: 53–88% more vs EU median 🏡 Homes: 33–35% more<br>
+    Why? Gas sets the price almost all the time.<br>
+    Smart use of renewables and storage  = fewer gas-set hours → lower bills 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 23 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1937016959356530838" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>⚙️ Wind turbines are getting bigger.<br>
     Larger rotors = more energy, lower costs.</strong><br>
@@ -67,25 +82,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1936281312031330803" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>⚡ Electrification is key to net zero—but adoption lags behind ambition.</strong><br>
-    Why?<br>
-    💰 High upfront costs<br>
-    🛠️ Disjointed installs<br>
-    🚫 Fragmented support<br>
-    🇦🇺 Australia’s first community-led initiative shows what’s possible with the right support & coordination. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 20 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1935912445794796010" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
 
 
 <p style="text-align: right; margin-top: 1.5em;">
