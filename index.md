@@ -37,6 +37,22 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>AI is powerful—but power-hungry.</strong><br>
+    ⚡️ Each query = a fraction to dozens of Wh<br>
+    Billions/day → GWh<br>
+    🚀 Trillions/day → TWh = a G20 country’s electricity use<br>
+    ☀️ Clean energy + 🧠 AI = the twin engines of the future.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 24 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1937350510086074640" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>🇬🇧 UK = one of the most expensive places on Earth for electricity</strong><br>
     In 2024: 🏭 Industry: 53–88% more vs EU median 🏡 Homes: 33–35% more<br>
@@ -64,22 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 22 June 2025</span>
     <a href="https://x.com/DrBinLu/status/1936610675625009292" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>☀️ Ultra-low-cost solar is on the horizon—and it could transform everything.</strong><br>
-    Cheap data unlocked smartphones, cloud tech, and the rise of AI.<br>
-    Cheap solar will power the next wave:<br>
-    🫧 Green hydrogen<br>
-    💧 Desalination<br>
-    🧠 AI-powered industry
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 21 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1936281312031330803" target="_blank">🔗 View post</a>
   </div>
 </div>
 
