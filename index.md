@@ -38,6 +38,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>WA’s Mid West: a First Nations clean energy hotspot.</strong><br>
+    ☀️🌬️ 65 top clusters for solar, wind & hybrid<br>
+    🔋 263 microgrid-ready sites<br>
+    👉 https://nit.com.au/24-06-2025/18724/yamatji-land-identified-as-prime-location-for-clean-energy-development<br>
+    Proud to support YSRC with our ANU team in mapping 1385 Yamatji land parcels!
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 25 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1937723658237280467" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>AI is powerful—but power-hungry.</strong><br>
     ⚡️ Each query = a fraction to dozens of Wh<br>
     Billions/day → GWh<br>
@@ -67,21 +82,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>⚙️ Wind turbines are getting bigger.<br>
-    Larger rotors = more energy, lower costs.</strong><br>
-    But to unlock their full power, we need:<br>
-    → Turn-friendly roads<br>
-    → Heavy-load bridges<br>
-    → Logistics built for scale<br>
-    🛣️ Infrastructure is the real #WindPower unlock.    
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 22 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1936610675625009292" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 <p style="text-align: right; margin-top: 1.5em;">
