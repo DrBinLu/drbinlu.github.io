@@ -35,6 +35,18 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>🌍 92% of the world now has electricity access — yet 2.1B still cook with dirty fuels.<br>
+    In sub-Saharan Africa, 4 in 5 families lack clean cooking, warns @WHO</strong><br>
+    ⚡Microgrids + ☀️ cheaper solar & storage<br>
+    = breakthrough for #EnergyAccess + #CleanCooking    
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 26 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1938072325955719405" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -64,26 +76,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1937350510086074640" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>🇬🇧 UK = one of the most expensive places on Earth for electricity</strong><br>
-    In 2024: 🏭 Industry: 53–88% more vs EU median 🏡 Homes: 33–35% more<br>
-    Why? Gas sets the price almost all the time.<br>
-    Smart use of renewables and storage  = fewer gas-set hours → lower bills 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 23 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1937016959356530838" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
