@@ -35,6 +35,23 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🌍 Global energy & emissions hit record highs, reports @EnergyInstitute</strong><br>
+    In 2024:<br>
+    🔥 Energy supply: 592 EJ<br>
+    💨 CO2 from energy: 35.5 Gt<br>
+    ☀️ Renewable energy reached 49 EJ, but still just over 8%.<br>
+    What we need now is speed and scale!
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 27 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1938471910268145846" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>🌍 92% of the world now has electricity access — yet 2.1B still cook with dirty fuels.<br>
@@ -63,19 +80,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>AI is powerful—but power-hungry.</strong><br>
-    ⚡️ Each query = a fraction to dozens of Wh<br>
-    Billions/day → GWh<br>
-    🚀 Trillions/day → TWh = a G20 country’s electricity use<br>
-    ☀️ Clean energy + 🧠 AI = the twin engines of the future.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 24 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1937350510086074640" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
