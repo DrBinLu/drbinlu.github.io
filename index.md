@@ -37,6 +37,19 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>⚡️ Retail energy competition gives consumers real power — to negotiate prices and choose green energy.</strong><br>
+    Yet only 66 economies allow it: 32 partial, 34 full<br>
+    ☀️🚗 With solar & EVs rise, users are becoming prosumers, reshaping the future of energy markets.<br>
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 29 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1939106614143078483" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Renewables = Resilience<br>
     ☀️ Sunlight is free. Everywhere. Immune to war, oil shocks, or shipping delays.</strong><br>
@@ -64,25 +77,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1938471910268145846" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>🌍 92% of the world now has electricity access — yet 2.1B still cook with dirty fuels.<br>
-    In sub-Saharan Africa, 4 in 5 families lack clean cooking, warns @WHO</strong><br>
-    ⚡Microgrids + ☀️ cheaper solar & storage<br>
-    = breakthrough for #EnergyAccess + #CleanCooking    
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 26 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1938072325955719405" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
