@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Renewables = Resilience<br>
+    ☀️ Sunlight is free. Everywhere. Immune to war, oil shocks, or shipping delays.</strong><br>
+    🚢 Global supply chain risks?<br>
+    Future Made in Australia is scaling up local clean tech manufacturing — building resilience into the energy future.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 28 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1938791190687818205" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌍 Global energy & emissions hit record highs, reports @EnergyInstitute</strong><br>
     In 2024:<br>
     🔥 Energy supply: 592 EJ<br>
@@ -65,19 +79,7 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>WA’s Mid West: a First Nations clean energy hotspot.</strong><br>
-    ☀️🌬️ 65 top clusters for solar, wind & hybrid<br>
-    🔋 263 microgrid-ready sites<br>
-    👉 https://nit.com.au/24-06-2025/18724/yamatji-land-identified-as-prime-location-for-clean-energy-development<br>
-    Proud to support YSRC with our ANU team in mapping 1385 Yamatji land parcels!
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 25 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1937723658237280467" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
