@@ -36,6 +36,22 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Home loan discounts are emerging as an incentive for residential energy upgrades.</strong><br>
+    🏦 Green loans from 2.79% interest<br>
+    🏠 0.75% off mortgage<br>
+    With NatHERS expanding to existing homes in 2025, these options could soon reach more households.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 30 June 2025</span>
+    <a href="https://x.com/DrBinLu/status/1939537268768964823" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>⚡️ Retail energy competition gives consumers real power — to negotiate prices and choose green energy.</strong><br>
@@ -63,20 +79,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌍 Global energy & emissions hit record highs, reports @EnergyInstitute</strong><br>
-    In 2024:<br>
-    🔥 Energy supply: 592 EJ<br>
-    💨 CO2 from energy: 35.5 Gt<br>
-    ☀️ Renewable energy reached 49 EJ, but still just over 8%.<br>
-    What we need now is speed and scale!
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 27 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1938471910268145846" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
