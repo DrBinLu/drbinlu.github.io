@@ -26,7 +26,7 @@ title: Turning Science into Stories
 <p>
 📧 <a href="mailto:DrBinLu@gmail.com">DrBinLu@gmail.com</a> · 
 <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> <a href="https://x.com/DrBinLu" target="_blank">@DrBinLu</a> · 
-<img src="/images/linkedin-logo.png" alt="LinkedIn logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> <a href="https://www.linkedin.com/in/drbinlu/" target="_blank">/in/drbinlu/</a> · 
+<img src="/images/linkedin-logo.png" alt="LinkedIn logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> <a href="https://www.linkedin.com/in/drbinlu/" target="_blank">LinkedIn.com/in/drbinlu</a> · 
 🌐 <a href="https://www.drbinlu.com" target="_blank">www.drbinlu.com</a>
 </p>
 
