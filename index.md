@@ -39,6 +39,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🇦🇺 Rooftop solar powers 40%+ of Aussie homes.<br>
+    But only 2% of households have a battery. That starts changing today.</strong><br>
+    The federal Cheaper Home Batteries Program is now live:<br>
+    💰 30% off battery costs<br>
+    🔋 Targeting 10 GWh of new storage
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 1 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1939921682208010652" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Home loan discounts are emerging as an incentive for residential energy upgrades.</strong><br>
     🏦 Green loans from 2.79% interest<br>
     🏠 0.75% off mortgage<br>
@@ -65,18 +80,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Renewables = Resilience<br>
-    ☀️ Sunlight is free. Everywhere. Immune to war, oil shocks, or shipping delays.</strong><br>
-    🚢 Global supply chain risks?<br>
-    Future Made in Australia is scaling up local clean tech manufacturing — building resilience into the energy future.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 28 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1938791190687818205" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
