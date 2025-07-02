@@ -36,7 +36,19 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
-
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>45% of Australia’s land is Indigenous owned (154M ha), managed (156M ha), or co-managed (36M ha).<br>
+    Vast solar & wind energy potential.</strong><br>
+    A shared opportunity to:<br>
+    ✅ Boost energy security for First Nations communities<br>
+    ✅ Power Australia’s clean energy future
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 2 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1940276307486781717" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -65,26 +77,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1939537268768964823" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>⚡️ Retail energy competition gives consumers real power — to negotiate prices and choose green energy.</strong><br>
-    Yet only 66 economies allow it: 32 partial, 34 full<br>
-    ☀️🚗 With solar & EVs rise, users are becoming prosumers, reshaping the future of energy markets.<br>
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 29 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1939106614143078483" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
