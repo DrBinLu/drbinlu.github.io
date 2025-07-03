@@ -36,6 +36,21 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Energy transition isn’t a zero-sum race — it runs on global collaboration.</strong><br>
+    For example:<br>
+    In 2024, 🇨🇳 China made 70% of the world’s EVs.<br>
+    But 80% of its iron ore was imported, mainly from 🇦🇺 Australia & 🇧🇷 Brazil.<br>
+    Global supply chains power the future.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 3 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1940633831385845863" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>45% of Australia’s land is Indigenous owned (154M ha), managed (156M ha), or co-managed (36M ha).<br>
@@ -61,20 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 1 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1939921682208010652" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Home loan discounts are emerging as an incentive for residential energy upgrades.</strong><br>
-    🏦 Green loans from 2.79% interest<br>
-    🏠 0.75% off mortgage<br>
-    With NatHERS expanding to existing homes in 2025, these options could soon reach more households.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 30 June 2025</span>
-    <a href="https://x.com/DrBinLu/status/1939537268768964823" target="_blank">🔗 View post</a>
   </div>
 </div>
 
