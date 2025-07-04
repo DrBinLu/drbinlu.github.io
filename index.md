@@ -37,6 +37,25 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Typical build times:<br>
+    ☀️ Solar: 1–2 yrs<br>
+    🌬️ Wind: 1–2 yrs<br>
+    🔋 Batteries: 1 yr<br>
+    ☢️ Nuclear: 10 yrs+</strong><br>
+    #AI-driven electricity demand is about to explode.<br>
+    Only #Renewables + #Storage can scale fast enough to keep up.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 4 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1941033119492329593" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Energy transition isn’t a zero-sum race — it runs on global collaboration.</strong><br>
@@ -65,19 +84,7 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇦🇺 Rooftop solar powers 40%+ of Aussie homes.<br>
-    But only 2% of households have a battery. That starts changing today.</strong><br>
-    The federal Cheaper Home Batteries Program is now live:<br>
-    💰 30% off battery costs<br>
-    🔋 Targeting 10 GWh of new storage
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 1 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1939921682208010652" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
