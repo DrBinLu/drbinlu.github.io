@@ -37,6 +37,26 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>The global rise of #WindPower:</strong><br>
+    1980 🇺🇸 built the first wind farm<br>
+    1991 🇩🇰 built the first offshore wind farm<br>
+    2000s 🇩🇪 led global capacity<br>
+    2008 🇺🇸 took over<br>
+    2011 🇨🇳 took over — and stayed<br>
+    2024 🇨🇳 522 GW (#1) 🇺🇸 153 GW (#2) 🇩🇪 73 GW (#3)<br>
+    2025 More to come ..
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 6 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1941771048124547556" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">  
     <strong>🇦🇺 Australia holds 30% of the world’s iron ore — and extracts nearly 1B tonnes a year.</strong><br>
@@ -64,22 +84,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 4 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1941033119492329593" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Energy transition isn’t a zero-sum race — it runs on global collaboration.</strong><br>
-    For example:<br>
-    In 2024, 🇨🇳 China made 70% of the world’s EVs.<br>
-    But 80% of its iron ore was imported, mainly from 🇦🇺 Australia & 🇧🇷 Brazil.<br>
-    Global supply chains power the future.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1940633831385845863" target="_blank">🔗 View post</a>
   </div>
 </div>
 
