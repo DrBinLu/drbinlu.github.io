@@ -40,6 +40,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>✈️ #Aviation emits ~1 Gt CO2 annually — and it’s one of the hardest to decarbonise.<br>
+    Electric planes (battery, hydrogen fuel cell) show promise, but long-haul flights need drop-in fuels.<br>
+    E-fuels from ultra-low-cost solar (0.01 USD/kWh) can be the key. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 7 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1942131335474368588" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>The global rise of #WindPower:</strong><br>
     1980 🇺🇸 built the first wind farm<br>
     1991 🇩🇰 built the first offshore wind farm<br>
@@ -69,23 +82,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Typical build times:<br>
-    ☀️ Solar: 1–2 yrs<br>
-    🌬️ Wind: 1–2 yrs<br>
-    🔋 Batteries: 1 yr<br>
-    ☢️ Nuclear: 10 yrs+</strong><br>
-    #AI-driven electricity demand is about to explode.<br>
-    Only #Renewables + #Storage can scale fast enough to keep up.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 4 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1941033119492329593" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 
 <p style="text-align: right; margin-top: 1.5em;">
