@@ -40,7 +40,7 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>✈️ #Aviation emits ~1 Gt CO2 annually — and it’s one of the hardest to decarbonise.<br>
+    <strong>✈️ #Aviation emits ~1 Gt CO2 annually — and it’s one of the hardest to decarbonise.</strong><br>
     Electric planes (battery, hydrogen fuel cell) show promise, but long-haul flights need drop-in fuels.<br>
     E-fuels from ultra-low-cost solar (0.01 USD/kWh) can be the key. 
   </p>
