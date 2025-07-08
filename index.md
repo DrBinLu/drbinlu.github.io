@@ -39,6 +39,21 @@ title: Turning Science into Stories
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">  
+    <strong>New transmission projects often face public pushback, especially through rural or scenic areas.</strong><br>
+    High-voltage direct current (#HVDC) could be the solution:<br>
+    ✅ Long-distance underground cables<br>
+    ✅ Reduced visual impact<br>
+    ✅ Lower power loss & cost per unit
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 8 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1942449761719832741" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>✈️ #Aviation emits ~1 Gt CO2 annually — and it’s one of the hardest to decarbonise.</strong><br>
     Electric planes (battery, hydrogen fuel cell) show promise, but long-haul flights need drop-in fuels.<br>
@@ -67,21 +82,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1941771048124547556" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>🇦🇺 Australia holds 30% of the world’s iron ore — and extracts nearly 1B tonnes a year.</strong><br>
-    Instead of shipping it overseas, we can turn it into green steel at home — powered by world-class renewables.<br>
-    A Terawatt-scale clean energy market is on the rise.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 5 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1941360918035828940" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 
 <p style="text-align: right; margin-top: 1.5em;">
