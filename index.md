@@ -36,6 +36,23 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Building energy efficiency needs both:<br>
+    Active upgrades: heat pumps, LEDs, smart controls<br>
+    Passive fixes: insulation, double glazing</strong><br>
+    Türkiye shows it works:<br>
+    🏢 372 public buildings retrofitted<br>
+    ⚡️ 200 GWh/year saved<br>
+    💰 $11.5M/year cut from energy bills
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 10 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1943193592694214906" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>How to replace natural gas in 3 steps:</strong><br>
@@ -63,23 +80,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1942449761719832741" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>✈️ #Aviation emits ~1 Gt CO2 annually — and it’s one of the hardest to decarbonise.</strong><br>
-    Electric planes (battery, hydrogen fuel cell) show promise, but long-haul flights need drop-in fuels.<br>
-    E-fuels from ultra-low-cost solar (0.01 USD/kWh) can be the key. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 7 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1942131335474368588" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
