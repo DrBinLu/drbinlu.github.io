@@ -37,6 +37,22 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Why are Eastern Australia’s gas and power prices so high?<br>
+    • Gas exports dominate — no domestic reservation policy<br>
+    • Gas prices tied to global markets<br>
+    • Driving up electricity costs</strong><br>
+    Solution: Reduce gas reliance → 🌞 Renewables + ⚡ electrification
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 11 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1943562474315464888" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Building energy efficiency needs both:<br>
@@ -64,20 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 9 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1942850732979544432" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">  
-    <strong>New transmission projects often face public pushback, especially through rural or scenic areas.</strong><br>
-    High-voltage direct current (#HVDC) could be the solution:<br>
-    ✅ Long-distance underground cables<br>
-    ✅ Reduced visual impact<br>
-    ✅ Lower power loss & cost per unit
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 8 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1942449761719832741" target="_blank">🔗 View post</a>
   </div>
 </div>
 
