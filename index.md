@@ -42,7 +42,7 @@ title: Turning Science into Stories
     <strong>2025 marks a historic milestone:<br>
     Renewables now lead fossil fuels in global power capacity.</strong><br>
     EV sales are surging too:<br>
-    2M sold in 2018 → est. 20M in 2024<br>
+    2M sold in 2018 → est. 20M in 2025<br>
     On track to surpass combustion cars in global sales by the early 2030s — or sooner.
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
