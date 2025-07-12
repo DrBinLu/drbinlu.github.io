@@ -36,7 +36,17 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
-
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Australia’s energy transition is accelerating — but the grid was built for the fossil fuel era.<br>
+    When transmission upgrades lag, renewable energy risks being left unused.</strong><br>
+    Storage steps in: shifting energy across the day, easing grid pressure. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 12 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1943974513613615605" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -66,20 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 10 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1943193592694214906" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>How to replace natural gas in 3 steps:</strong><br>
-    ⚡️ Power generation → Go 100% renewables<br>
-    🏠 Buildings → Electrify heating and cooking<br>
-    🏭 Industrial heating → Electrify with furnaces & heat pumps<br>
-    Renewables + electrification = fewer emissions, more flexibility
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 9 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1942850732979544432" target="_blank">🔗 View post</a>
   </div>
 </div>
 
