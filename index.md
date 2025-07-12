@@ -36,6 +36,23 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>2025 marks a historic milestone:<br>
+    Renewables now lead fossil fuels in global power capacity.</strong><br>
+    EV sales are surging too:<br>
+    2M sold in 2018 → est. 20M in 2024<br>
+    On track to surpass combustion cars in global sales by the early 2030s — or sooner.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 13 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1944183129691820380" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Australia’s energy transition is accelerating — but the grid was built for the fossil fuel era.<br>
@@ -62,22 +79,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Building energy efficiency needs both:<br>
-    Active upgrades: heat pumps, LEDs, smart controls<br>
-    Passive fixes: insulation, double glazing</strong><br>
-    Türkiye shows it works:<br>
-    🏢 372 public buildings retrofitted<br>
-    ⚡️ 200 GWh/year saved<br>
-    💰 $11.5M/year cut from energy bills
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 10 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1943193592694214906" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
