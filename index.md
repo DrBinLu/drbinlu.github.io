@@ -39,6 +39,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Australia’s #Pilbara isn’t just a mining giant — it’s emerging as a future green energy hub.</strong><br>
+    Green hydrogen, metals, fuels: big things ahead.<br>
+    ⚡️ A shared transmission network helps unlock Pilbara’s full power — driving Australia’s #CleanEnergyExports
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 14 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1944648905242865983" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>2025 marks a historic milestone:<br>
     Renewables now lead fossil fuels in global power capacity.</strong><br>
     EV sales are surging too:<br>
@@ -65,19 +79,7 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Why are Eastern Australia’s gas and power prices so high?<br>
-    • Gas exports dominate — no domestic reservation policy<br>
-    • Gas prices tied to global markets<br>
-    • Driving up electricity costs</strong><br>
-    Solution: Reduce gas reliance → 🌞 Renewables + ⚡ electrification
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 11 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1943562474315464888" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 <p style="text-align: right; margin-top: 1.5em;">
