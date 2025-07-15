@@ -37,6 +37,26 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>India’s per capita power use: 1.4 MWh/year<br>
+    Brazil: 3 MWh<br>
+    China: 7 MWh<br>
+    Australia: 10 MWh<br>
+    A huge growth journey ahead.</strong><br>
+    Power it with renewables + storage →<br>
+    ⚡️ Terawatt-scale clean energy market<br>
+    🔥 Gigatonne-scale CO2 avoided per year
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 15 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1945043202966479231" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Australia’s #Pilbara isn’t just a mining giant — it’s emerging as a future green energy hub.</strong><br>
@@ -67,17 +87,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Australia’s energy transition is accelerating — but the grid was built for the fossil fuel era.<br>
-    When transmission upgrades lag, renewable energy risks being left unused.</strong><br>
-    Storage steps in: shifting energy across the day, easing grid pressure. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 12 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1943974513613615605" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
