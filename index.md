@@ -36,6 +36,18 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>From abandoned mines to clean energy hubs:<br>
+    ☀️Mining sites worldwide could host TW-scale solar, unlocking PWh/year-scale clean energy.</strong><br>
+    Building on that:<br>
+    🔋💧Adding storage boosts capacity factors — turning solar peaks into stable, round-the-clock supply.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 16 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1945425214076276996" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
@@ -68,29 +80,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1944648905242865983" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>2025 marks a historic milestone:<br>
-    Renewables now lead fossil fuels in global power capacity.</strong><br>
-    EV sales are surging too:<br>
-    2M sold in 2018 → est. 20M in 2025<br>
-    On track to surpass combustion cars in global sales by the early 2030s — or sooner.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 13 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1944183129691820380" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
