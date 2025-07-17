@@ -36,6 +36,21 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>EV batteries don’t retire when cars do. 🚗🔋<br>
+    With 1.8% annual degradation, they still hold ~80% capacity after 10–15 years.</strong><br>
+    Second life as stationary energy storage = max value, min waste.<br>
+    A smart example of the circular economy ♻️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 17 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1945752423349489938" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>From abandoned mines to clean energy hubs:<br>
@@ -64,20 +79,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 15 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1945043202966479231" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Australia’s #Pilbara isn’t just a mining giant — it’s emerging as a future green energy hub.</strong><br>
-    Green hydrogen, metals, fuels: big things ahead.<br>
-    ⚡️ A shared transmission network helps unlock Pilbara’s full power — driving Australia’s #CleanEnergyExports
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 14 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1944648905242865983" target="_blank">🔗 View post</a>
   </div>
 </div>
 
