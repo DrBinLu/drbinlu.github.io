@@ -39,6 +39,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Asia’s energy storage boom includes both batteries and pumped hydro.</strong><br>
+    🔋 = millisecond response, flexible siting<br>
+    💧 = inertia, long-duration storage (example: Indonesia’s Upper Cisokan, 1040 MW / 6760 MWh)<br>
+    Both help to stabilise high-renewable grids.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 18 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1946103186898694616" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>EV batteries don’t retire when cars do. 🚗🔋<br>
     With 1.8% annual degradation, they still hold ~80% capacity after 10–15 years.</strong><br>
     Second life as stationary energy storage = max value, min waste.<br>
@@ -64,23 +79,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>India’s per capita power use: 1.4 MWh/year<br>
-    Brazil: 3 MWh<br>
-    China: 7 MWh<br>
-    Australia: 10 MWh<br>
-    A huge growth journey ahead.</strong><br>
-    Power it with renewables + storage →<br>
-    ⚡️ Terawatt-scale clean energy market<br>
-    🔥 Gigatonne-scale CO2 avoided per year
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 15 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1945043202966479231" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
