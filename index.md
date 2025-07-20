@@ -39,6 +39,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🇨🇦 In Canada, Indigenous communities benefit from 20% of electricity infrastructure.<br>
+    🇦🇺 In Australia, just 2% — despite owning, managing or co-managing 45% of the land.</strong><br>
+    The clean energy transition is a chance to change that — by building it together.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 20 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1946829389980909783" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Asia’s energy storage boom includes both batteries and pumped hydro.</strong><br>
     🔋 = millisecond response, flexible siting<br>
     💧 = inertia, long-duration storage (example: Indonesia’s Upper Cisokan, 1040 MW / 6760 MWh)<br>
@@ -62,20 +75,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 17 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1945752423349489938" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>From abandoned mines to clean energy hubs:<br>
-    ☀️Mining sites worldwide could host TW-scale solar, unlocking PWh/year-scale clean energy.</strong><br>
-    Building on that:<br>
-    🔋💧Adding storage boosts capacity factors — turning solar peaks into stable, round-the-clock supply.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 16 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1945425214076276996" target="_blank">🔗 View post</a>
   </div>
 </div>
 
