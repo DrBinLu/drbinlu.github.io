@@ -37,6 +37,23 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>There’s more than one way to electrify.<br>
+    🔋 Batteries = direct<br>
+    🫧 Hydrogen = indirect (renewables → electrolysis → fuel cells)</strong><br>
+    Hydrogen stores ~100× more energy per kg vs batteries —<br>
+    ideal for the toughest transport challenges: weight and distance.  
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 21 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1947115074918981975" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🇨🇦 In Canada, Indigenous communities benefit from 20% of electricity infrastructure.<br>
@@ -63,20 +80,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>EV batteries don’t retire when cars do. 🚗🔋<br>
-    With 1.8% annual degradation, they still hold ~80% capacity after 10–15 years.</strong><br>
-    Second life as stationary energy storage = max value, min waste.<br>
-    A smart example of the circular economy ♻️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 17 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1945752423349489938" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 
 <p style="text-align: right; margin-top: 1.5em;">
