@@ -95,6 +95,21 @@ title: Turning Science into Stories
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0960148125015848?via%3Dihub" target="_blank">
+        <img src="/images/city-flexibility.jpg" alt="City flexibility"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0960148125015848?via%3Dihub" target="_blank">
+        <strong>City-scale integration of distributed energy storage resources for an all-electric energy future</strong>
+      </a><br>
+      Plug in. Heat up. Your city becomes a giant battery.
+    </div>
+  </div>
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="/gridstability" target="_blank">
         <img src="/images/REGrowth.jpg" alt="RE Growth"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
@@ -107,10 +122,6 @@ title: Turning Science into Stories
       FIRM = Flexible. Integrated. Responsive. Massive. — unlocking system-wide flexibility for grid stability.
     </div>
   </div>
-
-
-
-
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
