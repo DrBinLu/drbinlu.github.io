@@ -36,6 +36,18 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Cities aren’t just energy-hungry giants — they can be giant batteries. @ConversationEDU</strong><br>
+    Our new article shows:<br>
+    Electrified cities can store and shift energy with everyday tech like EVs and hot water systems — helping stabilise the grid.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 22 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1947413767417172143" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
@@ -65,22 +77,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1946829389980909783" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Asia’s energy storage boom includes both batteries and pumped hydro.</strong><br>
-    🔋 = millisecond response, flexible siting<br>
-    💧 = inertia, long-duration storage (example: Indonesia’s Upper Cisokan, 1040 MW / 6760 MWh)<br>
-    Both help to stabilise high-renewable grids.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 18 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1946103186898694616" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
