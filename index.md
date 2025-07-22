@@ -189,6 +189,21 @@ title: Turning Science into Stories
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://reporter.anu.edu.au/all-stories/electrified-cities-could-become-giant-batteries-anu-study" target="_blank">
+        <img src="/images/electrified-cities.jpg" alt="Electrified Cities"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://reporter.anu.edu.au/all-stories/electrified-cities-could-become-giant-batteries-anu-study" target="_blank">
+        <strong>Electrified cities could become giant batteries: ANU study</strong>
+      </a>
+    </div>
+  </div>
+
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://reporter.anu.edu.au/all-stories/anu-experts-to-power-path-to-all-electric-act" target="_blank">
         <img src="/images/act-electrification.jpg" alt="All-electric ACT"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
