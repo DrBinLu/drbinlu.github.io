@@ -36,6 +36,23 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>WA’s Mid West holds some of Australia’s best renewables:<br>
+    ☀️ 1 MW of solar (fixed) can deliver 1900+ MWh/year<br>
+    💨 1 MW of wind can deliver 5000+ MWh/year at top sites</strong><br>
+    The Clean Energy Link North will connect this power to the state’s load centre — Perth.   
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 24 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1948285159872286742" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Cities aren’t just energy-hungry giants — they can be giant batteries. @ConversationEDU</strong><br>
@@ -65,18 +82,6 @@ title: Turning Science into Stories
 </div>
 
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇨🇦 In Canada, Indigenous communities benefit from 20% of electricity infrastructure.<br>
-    🇦🇺 In Australia, just 2% — despite owning, managing or co-managing 45% of the land.</strong><br>
-    The clean energy transition is a chance to change that — by building it together.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 20 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1946829389980909783" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
