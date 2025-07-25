@@ -37,6 +37,22 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🌞 100% renewables ≠ weeks of storage!</strong><br>
+    In regions like Australia and Southeast Asia, just 1 or 2 days of full-load storage can ensure year-round reliability.<br>
+    👉 Australia: https://doi.org/10.1016/j.energy.2020.119678<br>
+    👉 Southeast Asia: https://doi.org/10.1016/j.energy.2021.121387
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 25 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1948648012429099446" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>WA’s Mid West holds some of Australia’s best renewables:<br>
@@ -64,23 +80,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1947413767417172143" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>There’s more than one way to electrify.<br>
-    🔋 Batteries = direct<br>
-    🫧 Hydrogen = indirect (renewables → electrolysis → fuel cells)</strong><br>
-    Hydrogen stores ~100× more energy per kg vs batteries —<br>
-    ideal for the toughest transport challenges: weight and distance.  
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 21 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1947115074918981975" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 
 <p style="text-align: right; margin-top: 1.5em;">
