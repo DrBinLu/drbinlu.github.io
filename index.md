@@ -40,6 +40,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🇦🇺 #Australia: 1.5 kW of solar capacity per person<br>
+    🇳🇿 #NewZealand: just 0.1 kW per person</strong><br>
+    Both countries face high energy bills — but Australia’s massive solar rollout is helping.<br>
+    ☀️ Scaling up solar can help Aotearoa too.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 27 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1949361265434042786" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌞 100% renewables ≠ weeks of storage!</strong><br>
     In regions like Australia and Southeast Asia, just 1 or 2 days of full-load storage can ensure year-round reliability.<br>
     👉 Australia: https://doi.org/10.1016/j.energy.2020.119678<br>
@@ -63,21 +77,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 24 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1948285159872286742" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Cities aren’t just energy-hungry giants — they can be giant batteries. @ConversationEDU</strong><br>
-    Our new article shows:<br>
-    Electrified cities can store and shift energy with everyday tech like EVs and hot water systems — helping stabilise the grid.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 22 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1947413767417172143" target="_blank">🔗 View post</a>
   </div>
 </div>
 
