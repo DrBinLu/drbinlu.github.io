@@ -38,6 +38,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🇦🇺 Today, #Australia expands its #CapacityInvestmentScheme to 26 GW renewables + 14 GW storage, up 25% from 23+9 GW.</strong><br>
+    A smart move to stay on track for 82% renewable electricity by 2030.<br>
+    ☀️🌬️🔋 Solar, wind, storage — full speed ahead.  
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 29 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1950091738842005852" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Hydrogen cost is key to scaling green energy industries.</strong><br>
     Current prices:<br>
     #GreyHydrogen: US$1–2/kg<br>
@@ -61,20 +74,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 27 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1949361265434042786" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌞 100% renewables ≠ weeks of storage!</strong><br>
-    In regions like Australia and Southeast Asia, just 1 or 2 days of full-load storage can ensure year-round reliability.<br>
-    👉 Australia: https://doi.org/10.1016/j.energy.2020.119678<br>
-    👉 Southeast Asia: https://doi.org/10.1016/j.energy.2021.121387
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 25 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1948648012429099446" target="_blank">🔗 View post</a>
   </div>
 </div>
 
