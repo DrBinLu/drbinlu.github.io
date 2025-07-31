@@ -36,6 +36,23 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>In #Australia, renters face a clear energy divide:<br>
+    ☀️<10% have access to solar (vs 40%+ of owners)<br>
+    🏠<40% have insulation (vs 60–80% of owners)</strong><br>
+    Improving #EnergyEfficiency can cut bills.<br>
+    Canberra has minimum standards — it’s time for national action. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 31 July 2025</span>
+    <a href="https://x.com/DrBinLu/status/1950774489966584178" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>🇦🇺 Today, #Australia expands its #CapacityInvestmentScheme to 26 GW renewables + 14 GW storage, up 25% from 23+9 GW.</strong><br>
@@ -64,18 +81,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇦🇺 #Australia: 1.5 kW of solar capacity per person<br>
-    🇳🇿 #NewZealand: just 0.1 kW per person</strong><br>
-    Both countries face high energy bills — but Australia’s massive solar rollout is helping.<br>
-    ☀️ Scaling up solar can help Aotearoa too.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 27 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1949361265434042786" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
