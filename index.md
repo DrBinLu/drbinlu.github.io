@@ -37,6 +37,20 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🇨🇳 #China is rapidly scaling up its clean energy industry, from renewables to EVs.<br>
+    🇺🇸 #USA is taking a different path under #OneBigBeautifulBill, with support for fossil fuels.</strong><br>
+    Decisions made today will shape economic futures for decades to come. 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 2 August 2025</span>
+    <a href="https://x.com/DrBinLu/status/1951565741179937182" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>#WindPower:<br>
@@ -66,20 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 31 July 2025</span>
     <a href="https://x.com/DrBinLu/status/1950774489966584178" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇦🇺 Today, #Australia expands its #CapacityInvestmentScheme to 26 GW renewables + 14 GW storage, up 25% from 23+9 GW.</strong><br>
-    A smart move to stay on track for 82% renewable electricity by 2030.<br>
-    ☀️🌬️🔋 Solar, wind, storage — full speed ahead.  
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 29 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1950091738842005852" target="_blank">🔗 View post</a>
   </div>
 </div>
 
