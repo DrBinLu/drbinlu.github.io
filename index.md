@@ -51,7 +51,7 @@ title: Turning Science into Stories
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1951898852103274795" target="_blank">🔗 View post</a>
+    <a href="https://x.com/DrBinLu/status/1951899544071119343" target="_blank">🔗 View post</a>
   </div>
 </div>
 
