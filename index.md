@@ -39,14 +39,14 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Claims from some Australian politicians — but are they true?</strong><br>
-    “Nuclear can give you net zero at a vastly more affordable rate than intermittents [renewable energy]”
-    ❌ False claim.
-    ✅ Fact: Renewables (even with firming) are the lowest-cost generation tech (CSIRO, 2025).
-    “Nothing we do is going to change any temperature of the globe one iota by not building a coal-fired power station”
-    ❌ Logical fallacy.
-    Like saying: My vote won’t change the result, so I won’t vote.
-    Cutting emissions would cause “us to live like the Amish, or worse”
-    ❌ Appeal to fear.
+    “Nuclear can give you net zero at a vastly more affordable rate than intermittents [renewable energy]”<br>
+    ❌ False claim.<br>
+    ✅ Fact: Renewables (even with firming) are the lowest-cost generation tech (CSIRO, 2025).<br>
+    “Nothing we do is going to change any temperature of the globe one iota by not building a coal-fired power station”<br>
+    ❌ Logical fallacy.<br>
+    Like saying: My vote won’t change the result, so I won’t vote.<br>
+    Cutting emissions would cause “us to live like the Amish, or worse”<br>
+    ❌ Appeal to fear.<br>
     ✅ Reality: Clean tech + AI are driving the 21st century economy (LSE, 2023)
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
