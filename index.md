@@ -36,7 +36,24 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
-
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Claims from some Australian politicians — but are they true?</strong><br>
+    “Nuclear can give you net zero at a vastly more affordable rate than intermittents [renewable energy]”
+    ❌ False claim.
+    ✅ Fact: Renewables (even with firming) are the lowest-cost generation tech (CSIRO, 2025).
+    “Nothing we do is going to change any temperature of the globe one iota by not building a coal-fired power station”
+    ❌ Logical fallacy.
+    Like saying: My vote won’t change the result, so I won’t vote.
+    Cutting emissions would cause “us to live like the Amish, or worse”
+    ❌ Appeal to fear.
+    ✅ Reality: Clean tech + AI are driving the 21st century economy (LSE, 2023)
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 3 August 2025</span>
+    <a href="https://x.com/DrBinLu/status/1951898852103274795" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -66,23 +83,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1951137066965934244" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>In #Australia, renters face a clear energy divide:<br>
-    ☀️<10% have access to solar (vs 40%+ of owners)<br>
-    🏠<40% have insulation (vs 60–80% of owners)</strong><br>
-    Improving #EnergyEfficiency can cut bills.<br>
-    Canberra has minimum standards — it’s time for national action. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 31 July 2025</span>
-    <a href="https://x.com/DrBinLu/status/1950774489966584178" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
