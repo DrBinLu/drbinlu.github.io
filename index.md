@@ -36,6 +36,20 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>The Renewable Energy Target powered a decade of rapid renewable growth in Australia.<br>
+    The Capacity Investment Scheme is locking in the next wave of renewables and storage.</strong><br>
+    Now electrification must take the lead — and we need a smart market mechanism.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 4 August 2025</span>
+    <a href="https://x.com/DrBinLu/status/1952262987676532744" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Claims from some Australian politicians — but are they true?</strong><br>
@@ -67,22 +81,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>#WindPower:<br>
-    ✅ Zero emissions during generation<br>
-    ✅ Amongst the cheapest power<br>
-    ✅ Complements solar → less storage and network cost</strong><br>
-    Land use? Shared with farmland<br>
-    Environmental impact? Minimised by smart planning<br>
-    Benefits far outweigh the downsides.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 1 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1951137066965934244" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
