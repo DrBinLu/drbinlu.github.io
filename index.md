@@ -39,6 +39,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Rising costs are making some gas networks unviable.<br>
+    Switching to ⚡electric + ☀️solar pays off in the long run<br>
+    — but upfront costs can hit tens of thousands.</strong><br>
+    The ACT’s Sustainable Household Scheme has backed 23k+ upgrades.<br>
+    Time to scale it nationwide.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 6 August 2025</span>
+    <a href="https://x.com/DrBinLu/status/1952870974115987833" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>The Renewable Energy Target powered a decade of rapid renewable growth in Australia.<br>
     The Capacity Investment Scheme is locking in the next wave of renewables and storage.</strong><br>
     Now electrification must take the lead — and we need a smart market mechanism.
@@ -66,18 +80,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 August 2025</span>
     <a href="https://x.com/DrBinLu/status/1951899544071119343" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🇨🇳 #China is rapidly scaling up its clean energy industry, from renewables to EVs.<br>
-    🇺🇸 #USA is taking a different path under #OneBigBeautifulBill, with support for fossil fuels.</strong><br>
-    Decisions made today will shape economic futures for decades to come. 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 2 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1951565741179937182" target="_blank">🔗 View post</a>
   </div>
 </div>
 
