@@ -36,6 +36,19 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>🌞 Globally, average #SolarPV capacity is heading for 300 W/person.<br>
+    🇦🇺 Australia: ~1500 W/person</strong><br>
+    Australia’s experience shows:<br>
+    PV and batteries scale fast from kW to GW in buildings, grids and factories — supercharging the #EnergyTransition.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 11 August 2025</span>
+    <a href="https://x.com/DrBinLu/status/1954803757075538394" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -62,27 +75,6 @@ title: Turning Science into Stories
     <a href="https://x.com/DrBinLu/status/1952262987676532744" target="_blank">🔗 View post</a>
   </div>
 </div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Claims from some Australian politicians — but are they true?</strong><br>
-    “Nuclear can give you net zero at a vastly more affordable rate than intermittents [renewable energy]”<br>
-    ❌ False claim.<br>
-    ✅ Fact: Renewables (even with firming) are the lowest-cost generation tech (CSIRO, 2025).<br>
-    “Nothing we do is going to change any temperature of the globe one iota by not building a coal-fired power station”<br>
-    ❌ Logical fallacy.<br>
-    Like saying: My vote won’t change the result, so I won’t vote.<br>
-    Cutting emissions would cause “us to live like the Amish, or worse”<br>
-    ❌ Appeal to fear.<br>
-    ✅ Reality: Clean tech + AI are driving the 21st century economy (LSE, 2023)
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1951899544071119343" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
