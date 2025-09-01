@@ -38,6 +38,21 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Modern grid design:<br>
+    #Flywheel + #SynchronousCondenser can raise the inertial constant to ~10s.</strong><br>
+    By comparison:<br>
+    - Coal & hydro: 2–6s<br>
+    - Gas: 4–12s<br>
+    #Inertia is key to grid stability as renewables scale up. ☀️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 1 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1962327209353609237" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🌞 Globally, average #SolarPV capacity is heading for 300 W/person.<br>
     🇦🇺 Australia: ~1500 W/person</strong><br>
     Australia’s experience shows:<br>
@@ -61,18 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 6 August 2025</span>
     <a href="https://x.com/DrBinLu/status/1952870974115987833" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>The Renewable Energy Target powered a decade of rapid renewable growth in Australia.<br>
-    The Capacity Investment Scheme is locking in the next wave of renewables and storage.</strong><br>
-    Now electrification must take the lead — and we need a smart market mechanism.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 4 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1952262987676532744" target="_blank">🔗 View post</a>
   </div>
 </div>
 
