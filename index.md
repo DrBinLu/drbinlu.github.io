@@ -36,6 +36,21 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>#Supercapacitors are set to shine in the renewable energy & AI era.<br>
+    • Deliver kW to MW power in milliseconds<br>
+    • Round-trip efficiency >90%<br>
+    • Up to 1 million cycles</strong><br>
+    Perfect for handling power spikes — from 🧠 #AITraining to 🌞 #Microgrids.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 2 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1962684473302261817" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Modern grid design:<br>
@@ -61,21 +76,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 11 August 2025</span>
     <a href="https://x.com/DrBinLu/status/1954803757075538394" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Rising costs are making some gas networks unviable.<br>
-    Switching to ⚡electric + ☀️solar pays off in the long run<br>
-    — but upfront costs can hit tens of thousands.</strong><br>
-    The ACT’s Sustainable Household Scheme has backed 23k+ upgrades.<br>
-    Time to scale it nationwide.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 6 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1952870974115987833" target="_blank">🔗 View post</a>
   </div>
 </div>
 
