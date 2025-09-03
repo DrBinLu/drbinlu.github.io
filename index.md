@@ -36,6 +36,17 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>#Renewables can be turned into liquid fuels for #Aviation, #Shipping & #Chemicals — key to net zero.</strong><br>
+    Today: #SyntheticAviationFuel costs €6.8–€9.4/kg, ~10x fossil jet fuel.<br>
+    Future: #UltraLowCostSolar helps bring renewable fuels towards cost parity.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 3 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1963067149418950661" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -63,19 +74,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 1 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1962327209353609237" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🌞 Globally, average #SolarPV capacity is heading for 300 W/person.<br>
-    🇦🇺 Australia: ~1500 W/person</strong><br>
-    Australia’s experience shows:<br>
-    PV and batteries scale fast from kW to GW in buildings, grids and factories — supercharging the #EnergyTransition.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 11 August 2025</span>
-    <a href="https://x.com/DrBinLu/status/1954803757075538394" target="_blank">🔗 View post</a>
   </div>
 </div>
 
