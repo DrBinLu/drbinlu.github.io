@@ -38,6 +38,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>🔥 Half of the world’s final energy use is for heat.</strong><br>
+    Storing heat is cheaper than storing electricity<br>
+    — from hot water at home, to sand for district heating, to molten salt in factories.<br>
+    Heat storage helps bring more renewables into energy systems.  
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 4 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1963413948180697505" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>#Renewables can be turned into liquid fuels for #Aviation, #Shipping & #Chemicals — key to net zero.</strong><br>
     Today: #SyntheticAviationFuel costs €6.8–€9.4/kg, ~10x fossil jet fuel.<br>
     Future: #UltraLowCostSolar helps bring renewable fuels towards cost parity.
@@ -59,21 +72,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 2 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1962684473302261817" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Modern grid design:<br>
-    #Flywheel + #SynchronousCondenser can raise the inertial constant to ~10s.</strong><br>
-    By comparison:<br>
-    - Coal & hydro: 2–6s<br>
-    - Gas: 4–12s<br>
-    #Inertia is key to grid stability as renewables scale up. ☀️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 1 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1962327209353609237" target="_blank">🔗 View post</a>
   </div>
 </div>
 
