@@ -38,6 +38,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Compressed & liquid air can both deliver GWh-scale storage + synchronous inertia.</strong><br>
+    CAES: high-pressure space (salt caverns), low cost (~US$200/kWh).<br>
+    LAES: low-pressure insulated tanks, no geographic limits.<br>
+    Each has its strengths.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 5 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1963761853018059222" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>🔥 Half of the world’s final energy use is for heat.</strong><br>
     Storing heat is cheaper than storing electricity<br>
     — from hot water at home, to sand for district heating, to molten salt in factories.<br>
@@ -58,20 +71,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 3 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1963067149418950661" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>#Supercapacitors are set to shine in the renewable energy & AI era.<br>
-    • Deliver kW to MW power in milliseconds<br>
-    • Round-trip efficiency >90%<br>
-    • Up to 1 million cycles</strong><br>
-    Perfect for handling power spikes — from 🧠 #AITraining to 🌞 #Microgrids.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 2 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1962684473302261817" target="_blank">🔗 View post</a>
   </div>
 </div>
 
