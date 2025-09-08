@@ -38,6 +38,17 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>#Superconducting magnetic energy storage reacts in milliseconds and can provide massive bursts of power less than a minute.</strong><br>
+    A good fit for space, where many environments stay below -200 °C — naturally keeping superconductivity.  
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 8 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1964874483719975222" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Compressed & liquid air can both deliver GWh-scale storage + synchronous inertia.</strong><br>
     CAES: high-pressure space (salt caverns), low cost (~US$200/kWh).<br>
     LAES: low-pressure insulated tanks, no geographic limits.<br>
@@ -59,18 +70,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 4 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1963413948180697505" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>#Renewables can be turned into liquid fuels for #Aviation, #Shipping & #Chemicals — key to net zero.</strong><br>
-    Today: #SyntheticAviationFuel costs €6.8–€9.4/kg, ~10x fossil jet fuel.<br>
-    Future: #UltraLowCostSolar helps bring renewable fuels towards cost parity.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 3 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1963067149418950661" target="_blank">🔗 View post</a>
   </div>
 </div>
 
