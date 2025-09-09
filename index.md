@@ -36,14 +36,29 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
-    <strong>#Superconducting magnetic energy storage reacts in milliseconds and can provide massive bursts of power less than a minute.</strong><br>
-    A good fit for space, where many environments stay below -200 °C — naturally keeping superconductivity.  
+    <strong>🔥 Half of the world’s final energy use is for heat.</strong><br>
+    Storing heat is cheaper than storing electricity<br>
+    — from hot water at home, to sand for district heating, to molten salt in factories.<br>
+    Heat storage helps bring more renewables into energy systems.  
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 8 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1964874483719975222" target="_blank">🔗 View post</a>
+    <span>Posted on 4 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1963413948180697505" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Really enjoyed speaking to the Aus4ASEAN Fellows from the University of Melbourne on the future of 100% renewable energy.</strong><br>
+    I shared our ANU research on the FIRM strategy, which shows that with the right mix of flexibility sources, 100% renewable grids can be reliable, affordable, and resilient.<br>
+    Slides: http://drbinlu.com/aus4asean   
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 9 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1965259411452297641" target="_blank">🔗 View post</a>
   </div>
 </div>
 
@@ -57,19 +72,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 5 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1963761853018059222" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>🔥 Half of the world’s final energy use is for heat.</strong><br>
-    Storing heat is cheaper than storing electricity<br>
-    — from hot water at home, to sand for district heating, to molten salt in factories.<br>
-    Heat storage helps bring more renewables into energy systems.  
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 4 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1963413948180697505" target="_blank">🔗 View post</a>
   </div>
 </div>
 
