@@ -249,6 +249,22 @@ title: Turning Science into Stories
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
 
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="/aus4asean" target="_blank">
+        <img src="/images/Aus4ASEAN.png" alt="Aus4ASEAN"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="/aus4asean" target="_blank">
+        <strong>Aus4ASEAN Fellows Lecture: Stabilising 100% Renewable Grids</strong>
+      </a>
+    </div>
+  </div>
+
+
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://theconversation.com/how-evs-and-electric-water-heaters-are-turning-cities-into-giant-batteries-261369" target="_blank">
