@@ -38,6 +38,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Today, #Australia sets new climate target:<br>
+    🔻 62–70% below 2005 levels by 2035</strong><br>
+    Last decade:<br>
+    Emissions 540 → 440 Mt/year<br>
+    Electricity sector 180 → 150 Mt/year driven by renewables ☀️
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 18 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1968542535787364838" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Really enjoyed speaking to the Aus4ASEAN Fellows from the University of Melbourne on the future of 100% renewable energy.</strong><br>
     I shared our ANU research on the FIRM strategy, which shows that with the right mix of flexibility sources, 100% renewable grids can be reliable, affordable, and resilient.<br>
     Slides: http://drbinlu.com/aus4asean   
@@ -56,19 +70,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 8 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1964874483719975222" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Compressed & liquid air can both deliver GWh-scale storage + synchronous inertia.</strong><br>
-    CAES: high-pressure space (salt caverns), low cost (~US$200/kWh).<br>
-    LAES: low-pressure insulated tanks, no geographic limits.<br>
-    Each has its strengths.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 5 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1963761853018059222" target="_blank">🔗 View post</a>
   </div>
 </div>
 
