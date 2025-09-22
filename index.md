@@ -248,7 +248,20 @@ title: Turning Science into Stories
 
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
-
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="/energystorage" target="_blank">
+        <img src="/images/energystorage.png" alt="EnergyStorage"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="/energystorage" target="_blank">
+        <strong>Engineering Lecture: Energy Storage Technologies & Applications</strong>
+      </a>
+    </div>
+  </div>
+  
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
