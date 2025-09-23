@@ -36,6 +36,24 @@ title: Turning Science into Stories
 
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>It was a real pleasure to speak with engineering students (our future engineers!) about energy storage — the backbone of our clean energy future.</strong><br>
+    Here are the main points I shared:<br>
+    1. Diverse storage technologies. Mechanical, electrochemical, chemical, thermal, electromagnetic — each with unique strengths and trade-offs.<br>
+    2. Wide storage applications. From fast responses (inertia, frequency, voltage, ramping, black start, power quality) to sustained support (arbitrage, congestion relief, investment deferral, time-of-use, resilience).<br>
+    3. System integration: no silver bullet. A 100% renewable energy future will build on a portfolio of storage solutions to bridge variable renewables with stable power supply.<br>
+    Energy storage is booming — a global hotspot in both R&D and markets!<br>
+    Slides: drbinlu.com/energystorage
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 23 September 2025</span>
+    <a href="https://x.com/DrBinLu/status/1970364241623556163" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Today, #Australia sets new climate target:<br>
@@ -59,17 +77,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 9 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1965259411452297641" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>#Superconducting magnetic energy storage reacts in milliseconds and can provide massive bursts of power less than a minute.</strong><br>
-    A good fit for space, where many environments stay below -200 °C — naturally keeping superconductivity.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 8 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1964874483719975222" target="_blank">🔗 View post</a>
   </div>
 </div>
 
