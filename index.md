@@ -257,6 +257,21 @@ title: Turning Science into Stories
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="/jetfuel" target="_blank">
+        <img src="/images/jetfuel.png" alt="JetFuel"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="/jetfuel" target="_blank">
+        <strong>The Canberra Times: The secret to making Australia a green fuel export superpower</strong>
+      </a>
+    </div>
+  </div>
+
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="/energystorage" target="_blank">
         <img src="/images/energystorage.png" alt="EnergyStorage"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
