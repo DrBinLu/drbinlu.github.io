@@ -39,6 +39,20 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Our new op-ed is now live in The Canberra Times!</strong><br>
+    Australia is a global leader in solar R&D and deployment (>1.5 kW per capita).<br>
+    With ultra-low-cost solar, we can turn sunlight into jet fuel at scale — cutting emissions and powering new industries.<br>
+    Full article here: http://drbinlu.com/jetfuel 
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 15 October 2025</span>
+    <a href="https://x.com/DrBinLu/status/1978186889632022640" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>It was a real pleasure to speak with engineering students (our future engineers!) about energy storage — the backbone of our clean energy future.</strong><br>
     Here are the main points I shared:<br>
     1. Diverse storage technologies. Mechanical, electrochemical, chemical, thermal, electromagnetic — each with unique strengths and trade-offs.<br>
@@ -68,17 +82,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Really enjoyed speaking to the Aus4ASEAN Fellows from the University of Melbourne on the future of 100% renewable energy.</strong><br>
-    I shared our ANU research on the FIRM strategy, which shows that with the right mix of flexibility sources, 100% renewable grids can be reliable, affordable, and resilient.<br>
-    Slides: http://drbinlu.com/aus4asean   
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 9 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1965259411452297641" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 <p style="text-align: right; margin-top: 1.5em;">
   👉 <a href="https://x.com/DrBinLu" target="_blank"><strong>See all posts on X</strong></a>
