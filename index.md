@@ -37,6 +37,29 @@ title: Turning Science into Stories
 ## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Excited to share our new ANU-HILT CRC study, “Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage”, now published in Solar Energy.</strong><br>
+    
+    This research shows how smarter integration of solar and batteries can help substantially cut industrial electricity costs and emissions.<br>
+    Key findings:<br>
+    1. Green electricity based on onsite solar and batteries can support 24/7 continuous industry operations and help cut carbon emissions by 35%–87%.<br>
+    2. Electricity costs range from $90–$157/MWh at current technology costs to $71–$92/MWh under long-term cost projections.<br>
+    3. Interactions with the grid could help lower electricity costs by 23%–42%, compared to off-grid systems.<br>
+    4. Load flexibility through optimised system configurations could further reduce electricity costs to less than one-third of natural gas power.<br>
+    
+    ANU media release: https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry<br>  
+    Full article: https://www.sciencedirect.com/science/article/pii/S0038092X25008679
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 19 November 2025</span>
+    <a href="https://x.com/DrBinLu/status/1990909432369459618" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Our new op-ed is now live in The Canberra Times!</strong><br>
@@ -64,21 +87,6 @@ title: Turning Science into Stories
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 23 September 2025</span>
     <a href="https://x.com/DrBinLu/status/1970364241623556163" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Today, #Australia sets new climate target:<br>
-    🔻 62–70% below 2005 levels by 2035</strong><br>
-    Last decade:<br>
-    Emissions 540 → 440 Mt/year<br>
-    Electricity sector 180 → 150 Mt/year driven by renewables ☀️
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 18 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1968542535787364838" target="_blank">🔗 View post</a>
   </div>
 </div>
 
