@@ -41,14 +41,14 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Excited to share our new ANU-HILT CRC study, “Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage”, now published in Solar Energy.</strong><br>
-    
+    <br>
     This research shows how smarter integration of solar and batteries can help substantially cut industrial electricity costs and emissions.<br>
     Key findings:<br>
     1. Green electricity based on onsite solar and batteries can support 24/7 continuous industry operations and help cut carbon emissions by 35%–87%.<br>
     2. Electricity costs range from $90–$157/MWh at current technology costs to $71–$92/MWh under long-term cost projections.<br>
     3. Interactions with the grid could help lower electricity costs by 23%–42%, compared to off-grid systems.<br>
     4. Load flexibility through optimised system configurations could further reduce electricity costs to less than one-third of natural gas power.<br>
-    
+    <br>
     ANU media release: https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry<br>  
     Full article: https://www.sciencedirect.com/science/article/pii/S0038092X25008679
   </p>
