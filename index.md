@@ -218,6 +218,25 @@ title: Turning Science into Stories
 
 ## 📰 In the News
 
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry" target="_blank">
+        <img src="/images/PV.jpg" alt="PV"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry" target="_blank">
+        <strong>New study charts smarter path to 24/7 renewable power for heavy industry</strong>
+      </a>
+    </div>
+  </div>
+
+
+
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
   <div style="display: flex; gap: 15px;">
