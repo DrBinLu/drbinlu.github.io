@@ -96,6 +96,22 @@ title: Turning Science into Stories
 
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S0038092X25008679" target="_blank">
+        <img src="/images/green-electricity.jpg" alt="Green electricity"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://www.sciencedirect.com/science/article/pii/S0038092X25008679" target="_blank">
+        <strong>Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage</strong>
+      </a><br>
+      ANU-HILT CRC study charts smarter path to 24/7 renewable power for heavy industry.
+    </div>
+  </div>
+
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0960148125015848?via%3Dihub" target="_blank">
         <img src="/images/city-flexibility.jpg" alt="City flexibility"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
