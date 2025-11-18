@@ -41,14 +41,14 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Excited to share our new ANU-HILT CRC study, “Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage”, now published in Solar Energy.</strong><br>
-    <br>
+     <br>
     This research shows how smarter integration of solar and batteries can help substantially cut industrial electricity costs and emissions.<br>
     Key findings:<br>
     1. Green electricity based on onsite solar and batteries can support 24/7 continuous industry operations and help cut carbon emissions by 35%–87%.<br>
     2. Electricity costs range from $90–$157/MWh at current technology costs to $71–$92/MWh under long-term cost projections.<br>
     3. Interactions with the grid could help lower electricity costs by 23%–42%, compared to off-grid systems.<br>
     4. Load flexibility through optimised system configurations could further reduce electricity costs to less than one-third of natural gas power.<br>
-    <br>
+     <br>
     ANU media release: https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry<br>  
     Full article: https://www.sciencedirect.com/science/article/pii/S0038092X25008679
   </p>
@@ -63,8 +63,10 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Our new op-ed is now live in The Canberra Times!</strong><br>
+     <br>
     Australia is a global leader in solar R&D and deployment (>1.5 kW per capita).<br>
     With ultra-low-cost solar, we can turn sunlight into jet fuel at scale — cutting emissions and powering new industries.<br>
+     <br>
     Full article here: http://drbinlu.com/jetfuel 
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
@@ -77,10 +79,12 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>It was a real pleasure to speak with engineering students (our future engineers!) about energy storage — the backbone of our clean energy future.</strong><br>
+     <br>
     Here are the main points I shared:<br>
     1. Diverse storage technologies. Mechanical, electrochemical, chemical, thermal, electromagnetic — each with unique strengths and trade-offs.<br>
     2. Wide storage applications. From fast responses (inertia, frequency, voltage, ramping, black start, power quality) to sustained support (arbitrage, congestion relief, investment deferral, time-of-use, resilience).<br>
     3. System integration: no silver bullet. A 100% renewable energy future will build on a portfolio of storage solutions to bridge variable renewables with stable power supply.<br>
+     <br>
     Energy storage is booming — a global hotspot in both R&D and markets!<br>
     Slides: drbinlu.com/energystorage
   </p>
