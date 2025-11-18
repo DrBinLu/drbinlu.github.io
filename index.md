@@ -224,7 +224,7 @@ title: Turning Science into Stories
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry" target="_blank">
-        <img src="/images/PV.jpg" alt="PV"
+        <img src="/images/PV.png" alt="PV"
              style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
       </a>
     </div>
