@@ -236,9 +236,6 @@ title: Turning Science into Stories
   </div>
 
 
-
-<div style="display: flex; flex-direction: column; gap: 20px;">
-
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://reporter.anu.edu.au/all-stories/electrified-cities-could-become-giant-batteries-anu-study" target="_blank">
