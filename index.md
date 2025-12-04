@@ -40,6 +40,19 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Spoke at the Asia-Pacific Solar Research Conference on our recent work “Ultra-low-cost solar for economy-wide decarbonisation”.</strong><br>
+    Our key finding: Australia could unlock a 2000-gigawatt solar opportunity by decarbonising domestic industries and turning mineral exports into clean, value-added industries.<br>
+    Slides here: https://drbinlu.com/apsrc2025
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 5 December 2025</span>
+    <a href="https://x.com/DrBinLu/status/1996709978888143240" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Excited to share our new ANU-HILT CRC study, “Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage”, now published in Solar Energy.</strong><br>
      <br>
     This research shows how smarter integration of solar and batteries can help substantially cut industrial electricity costs and emissions.<br>
@@ -75,24 +88,6 @@ title: Turning Science into Stories
   </div>
 </div>
 
-
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>It was a real pleasure to speak with engineering students (our future engineers!) about energy storage — the backbone of our clean energy future.</strong><br>
-     <br>
-    Here are the main points I shared:<br>
-    1. Diverse storage technologies. Mechanical, electrochemical, chemical, thermal, electromagnetic — each with unique strengths and trade-offs.<br>
-    2. Wide storage applications. From fast responses (inertia, frequency, voltage, ramping, black start, power quality) to sustained support (arbitrage, congestion relief, investment deferral, time-of-use, resilience).<br>
-    3. System integration: no silver bullet. A 100% renewable energy future will build on a portfolio of storage solutions to bridge variable renewables with stable power supply.<br>
-     <br>
-    Energy storage is booming — a global hotspot in both R&D and markets!<br>
-    Slides: drbinlu.com/energystorage
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 23 September 2025</span>
-    <a href="https://x.com/DrBinLu/status/1970364241623556163" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 
 <p style="text-align: right; margin-top: 1.5em;">
