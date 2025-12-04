@@ -41,7 +41,9 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Spoke at the Asia-Pacific Solar Research Conference on our recent work “Ultra-low-cost solar for economy-wide decarbonisation”.</strong><br>
+     <br>
     Our key finding: Australia could unlock a 2000-gigawatt solar opportunity by decarbonising domestic industries and turning mineral exports into clean, value-added industries.<br>
+     <br>
     Slides here: https://drbinlu.com/apsrc2025
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
