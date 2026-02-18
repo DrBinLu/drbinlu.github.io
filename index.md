@@ -40,6 +40,25 @@ title: Turning Science into Stories
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
+    <strong>Delighted to speak today on industrial hydrogen storage at the Australian Hydrogen Research Conference in Melbourne.</strong><br>
+     <br>
+    In future green energy industries, hydrogen can be a chemical feedstock, a source of high-temperature heat, and a final energy carrier.<br>
+    Industrial hydrogen storage creates a strong link between electricity grids and emerging green industries, enabling effective sector coupling.<br>
+     <br>
+    Happy Lunar New Year to everyone celebrating! 🐎
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 18 February 2026</span>
+    <a href="https://x.com/DrBinLu/status/2023953706514006248" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
     <strong>Spoke at the Asia-Pacific Solar Research Conference on our recent work “Ultra-low-cost solar for economy-wide decarbonisation”.</strong><br>
      <br>
     Our key finding: Australia could unlock a 2000-gigawatt solar opportunity by decarbonising domestic industries and turning mineral exports into clean, value-added industries.<br>
@@ -75,20 +94,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Our new op-ed is now live in The Canberra Times!</strong><br>
-     <br>
-    Australia is a global leader in solar R&D and deployment (>1.5 kW per capita).<br>
-    With ultra-low-cost solar, we can turn sunlight into jet fuel at scale — cutting emissions and powering new industries.<br>
-     <br>
-    Full article here: http://drbinlu.com/jetfuel 
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 15 October 2025</span>
-    <a href="https://x.com/DrBinLu/status/1978186889632022640" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
