@@ -38,6 +38,23 @@ title: Turning Science into Stories
 
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Good discussion today at the HILT CRC webinar on green electricity supply for heavy industry.</strong><br>
+     <br>
+    Our research shows that industrial decarbonisation requires coordinated planning of renewable energy, storage, and operational flexibility to deliver low-cost and reliable green electricity.<br>
+     <br>
+    Thanks to HILT CRC for supporting collaboration between researchers and industry to address real-world industrial challenges.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 25 February 2026</span>
+    <a href="https://x.com/DrBinLu/status/2026502682354335923" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>Delighted to speak today on industrial hydrogen storage at the Australian Hydrogen Research Conference in Melbourne.</strong><br>
@@ -72,25 +89,7 @@ title: Turning Science into Stories
 </div>
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Excited to share our new ANU-HILT CRC study, “Decarbonising heavy industry operations with low-cost onsite photovoltaics and battery storage”, now published in Solar Energy.</strong><br>
-     <br>
-    This research shows how smarter integration of solar and batteries can help substantially cut industrial electricity costs and emissions.<br>
-    Key findings:<br>
-    1. Green electricity based on onsite solar and batteries can support 24/7 continuous industry operations and help cut carbon emissions by 35%–87%.<br>
-    2. Electricity costs range from $90–$157/MWh at current technology costs to $71–$92/MWh under long-term cost projections.<br>
-    3. Interactions with the grid could help lower electricity costs by 23%–42%, compared to off-grid systems.<br>
-    4. Load flexibility through optimised system configurations could further reduce electricity costs to less than one-third of natural gas power.<br>
-     <br>
-    ANU media release: https://reporter.anu.edu.au/all-stories/new-study-charts-smarter-path-to-24-7-renewable-power-for-heavy-industry<br>  
-    Full article: https://www.sciencedirect.com/science/article/pii/S0038092X25008679
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 19 November 2025</span>
-    <a href="https://x.com/DrBinLu/status/1990909432369459618" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
