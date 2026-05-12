@@ -34,8 +34,23 @@ title: Turning Science into Stories
 
 ---
 
-## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts on X
+## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts
 
+
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>Today I gave a lecture in the ANU Photovoltaic Technologies course on economy-wide decarbonisation enabled by low-cost PV.</strong><br>
+     <br>
+    It was a great experience to bring our latest research from #HILT CRC and #ACAP into the classroom. One of the things I enjoy most about working at ANU is the opportunity to connect research with teaching, and engage with the next generation of engineers.
+     <br>
+    Thanks #Heping for hosting.
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 12 May 2026</span>
+    <a href="https://www.linkedin.com/posts/drbinlu_today-i-gave-a-lecture-in-the-anu-photovoltaic-share-7459816768623112192-xbAf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFn8nyEBlsXXJF-vs0miNa2IDylMBZgfysE" target="_blank">🔗 View post</a>
+  </div>
+</div>
 
 
 
@@ -72,20 +87,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Delighted to speak today on industrial hydrogen storage at the Australian Hydrogen Research Conference in Melbourne.</strong><br>
-     <br>
-    In future green energy industries, hydrogen can be a chemical feedstock, a source of high-temperature heat, and a final energy carrier.<br>
-    Industrial hydrogen storage creates a strong link between electricity grids and emerging green industries, enabling effective sector coupling.<br>
-     <br>
-    Happy Lunar New Year to everyone celebrating! 🐎
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 18 February 2026</span>
-    <a href="https://x.com/DrBinLu/status/2023953706514006248" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
