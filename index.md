@@ -34,7 +34,7 @@ title: Turning Science into Stories
 
 ---
 
-## <img src="/images/x-logo.png" alt="X logo" style="height: 1em; vertical-align: middle; margin-right: 3px;"> Latest Posts
+## Latest Posts
 
 
 
@@ -50,7 +50,7 @@ title: Turning Science into Stories
     Green iron, steel, aluminium<br>  
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 26 March 2026</span>
+    <span>Posted on 29 September 2026</span>
     <a href="https://lnkd.in/p/eWmNPAJ4" target="_blank">🔗 View post</a>
   </div>
 </div>
