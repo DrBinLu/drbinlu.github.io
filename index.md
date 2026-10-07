@@ -38,6 +38,27 @@ title: Turning Science into Stories
 
 
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+  <strong>Glad to share our new research with ASEAN Centre for Energy and Norwegian Institute of International Affairs (NUPI), now published in Sustainable Development!</strong><br>
+   <br>
+  Phasing out coal power through cross-border renewable energy trade in the Asia-Pacific https://lnkd.in/gej_SHBN<br>
+   <br>
+  Coal-fired power supplies half of the Asia-Pacific’s electricity, producing about 7 Gt of CO2 emissions each year. Air pollution from coal combustion also contributes to >1,000,000 premature deaths annually.<br>
+   <br>
+  Leveraging the world’s largest free trade agreement, the Regional Comprehensive Economic Partnership, countries could work together to expand cross-border electricity trade and accelerate the clean energy transition across the Asia-Pacific!
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 8 October 2026</span>
+    <a href="https://lnkd.in/p/gP9cU3pd" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+
+
+
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
@@ -77,19 +98,7 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-    <strong>Today I gave a lecture in the ANU Photovoltaic Technologies course on economy-wide decarbonisation enabled by low-cost PV.</strong><br>
-     <br>
-    It was a great experience to bring our latest research from #HILT CRC and #ACAP into the classroom. One of the things I enjoy most about working at ANU is the opportunity to connect research with teaching, and engage with the next generation of engineers.
-     <br>
-    Thanks #Heping for hosting.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 12 May 2026</span>
-    <a href="https://www.linkedin.com/posts/drbinlu_today-i-gave-a-lecture-in-the-anu-photovoltaic-share-7459816768623112192-xbAf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFn8nyEBlsXXJF-vs0miNa2IDylMBZgfysE" target="_blank">🔗 View post</a>
-  </div>
-</div>
+
 
 
 
