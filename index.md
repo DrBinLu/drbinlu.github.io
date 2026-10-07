@@ -42,13 +42,13 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
     <strong>We had a lively discussion in today’s ANU Wind Energy course about how Australia could export renewable energy to international markets.<br>
-    I’d love to hear what you think too! Vote below.</strong><br> 
      <br>
+    I’d love to hear what you think too! Vote below.</strong><br> 
     What’s the most promising way for Australia to export renewable energy?<br>
-    Green electrons (power cable)<br>
-    Green data (fibre-optic cable)<br>
-    Green ammonia, synthetic fuels<br>
-    Green iron, steel, aluminium<br>  
+    - Green electrons (power cable)<br>
+    - Green data (fibre-optic cable)<br>
+    - Green ammonia, synthetic fuels<br>
+    - Green iron, steel, aluminium<br>  
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 29 September 2026</span>
