@@ -38,6 +38,25 @@ title: Turning Science into Stories
 
 
 
+
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>We had a lively discussion in today’s ANU Wind Energy course about how Australia could export renewable energy to international markets.</strong><br> 
+    I’d love to hear what you think too! Vote below.<br>
+    What’s the most promising way for Australia to export renewable energy?<br>
+    Green electrons (power cable)<br>
+    Green data (fibre-optic cable)<br>
+    Green ammonia, synthetic fuels<br>
+    Green iron, steel, aluminium<br>  
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 26 March 2026</span>
+    <a href="https://lnkd.in/p/eWmNPAJ4" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
 
@@ -73,20 +92,6 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-
-    <strong>It was a pleasure to speak at the ACAP workshop at UNSW about how ultra-low-cost solar (ULCS) could reshape the energy transition.</strong><br>
-     <br>
-    ULCS has the potential to drive energy change across the Australian economy.<br>
-    On the upstream side, demand structures will shift, accelerating the phase-out of gas and oil.<br>
-    On the downstream side, lower electricity costs will flow through to network development, consumer energy resources, and importantly, the competitiveness of green commodities.
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 26 March 2026</span>
-    <a href="https://x.com/DrBinLu/status/2036988264910049543" target="_blank">🔗 View post</a>
-  </div>
-</div>
 
 
 
