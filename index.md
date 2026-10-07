@@ -128,6 +128,33 @@ title: Turning Science into Stories
 <div style="display: flex; flex-direction: column; gap: 20px;">
 
 
+
+
+
+
+
+
+  <div style="display: flex; gap: 15px;">
+    <div style="flex: 0 0 40%; max-width: 200px;">
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sd.71740" target="_blank">
+        <img src="/images/rcep.jpg" alt="Asia-Pacific"
+             style="width: 100%; aspect-ratio: 3/2; object-fit: cover; border-radius: 8px;">
+      </a>
+    </div>
+    <div>
+      <a href="https://onlinelibrary.wiley.com/doi/10.1002/sd.71740" target="_blank">
+        <strong>Phasing out coal power through cross-border renewable energy trade in the Asia-Pacific</strong>
+      </a><br>
+      Cross-border renewable energy trade has the potential to displace the Asia-Pacific’s entire coal fleet.
+    </div>
+  </div>
+
+
+
+
+  
+
+
   <div style="display: flex; gap: 15px;">
     <div style="flex: 0 0 40%; max-width: 200px;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0038092X25008679" target="_blank">
