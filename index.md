@@ -145,7 +145,7 @@ title: Turning Science into Stories
       <a href="https://onlinelibrary.wiley.com/doi/10.1002/sd.71740" target="_blank">
         <strong>Phasing out coal power through cross-border renewable energy trade in the Asia-Pacific</strong>
       </a><br>
-      Cross-border renewable energy trade has the potential to displace the Asia-Pacific’s entire coal fleet.
+      Renewable energy trade has the potential to displace the Asia-Pacific’s entire coal fleet.
     </div>
   </div>
 
