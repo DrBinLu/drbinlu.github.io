@@ -42,7 +42,7 @@ title: Turning Science into Stories
   <p style="margin: 0;">
   <strong>Glad to share our new research with ASEAN Centre for Energy and Norwegian Institute of International Affairs (NUPI), now published in Sustainable Development!</strong><br>
    <br>
-  Phasing out coal power through cross-border renewable energy trade in the Asia-Pacific https://lnkd.in/gej_SHBN<br>
+  Phasing out coal power through cross-border renewable energy trade in the Asia-Pacific https://doi.org/10.1002/sd.71740<br>
    <br>
   Coal-fired power supplies half of the Asia-Pacific’s electricity, producing about 7 Gt of CO2 emissions each year. Air pollution from coal combustion also contributes to >1,000,000 premature deaths annually.<br>
    <br>
