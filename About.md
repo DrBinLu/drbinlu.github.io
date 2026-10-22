@@ -9,7 +9,7 @@ permalink: /about/
 # About Me
 
 
-Hi, I’m a renewable energy researcher living and working in Canberra — the capital of Australia. My work is all about helping countries shift to cleaner, smarter energy systems — especially across Australia and the Asia-Pacific.
+Hi, I’m a renewable energy researcher living and working in Canberra, Australia. My work is all about helping countries shift to cleaner, smarter energy systems, especially across Australia and the Asia-Pacific.
 
 My research focuses on energy system modelling, renewable resource assessment, and storage solutions. I developed the STORES Geographic Information System algorithm to identify off-river hydro storage across elevated landscapes — work that earned the Eureka Prize for Environmental Research. I also created the FIRM energy modelling tool, widely used across the Asia-Pacific to plan reliable, 100% renewable futures.
 
@@ -19,11 +19,12 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 
 ## 🏅 Prizes, Honours & Awards
 
-- Eureka Prize for Environmental Research (2018) with Andrew Blakers and Matthew Stocks
+- HILT CRC Best Contribution to Research Quality Award (2026)
 - Australian Government International Hydrogen Research Fellowship (2023–2024)
 - ANU Zero-Carbon Energy for the Asia-Pacific Grand Challenge Best Researcher Award (2023)
 - ANU College of Engineering & Computer Science Remote Teaching and Student Experience Award (2021)
 - ANU Grand Challenge Research Fellow (2018–2023)
+- Eureka Prize for Environmental Research (2018) with Andrew Blakers and Matthew Stocks
 - Australian Centre for Advanced Photovoltaics Postdoctoral Fellowship (2019–2022)
 - Australian Government Research Training Program Scholarship (2017–2018)
 - Australian Postgraduate Award (2016)
