@@ -40,7 +40,7 @@ title: Turning Science into Stories
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
   <strong>I feel very honoured to receive the HILT CRC Best Contribution to Research Quality Award in Adelaide!<br>
-  Thank you so much to HILT CRC colleagues for your support and recognition!
+  Thank you so much to HILT CRC colleagues for your support and recognition!</strong><br>
   </p>
   <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
     <span>Posted on 23 October 2026</span>
