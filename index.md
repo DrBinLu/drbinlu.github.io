@@ -37,6 +37,21 @@ title: Turning Science into Stories
 ## Latest Posts
 
 
+<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
+  <p style="margin: 0;">
+    <strong>I feel very honoured to receive the HILT CRC Best Contribution to Research Quality Award in Adelaide!<br>
+    Thank you so much to HILT CRC colleagues for your support and recognition!
+  </p>
+  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
+    <span>Posted on 23 October 2026</span>
+    <a href="https://lnkd.in/p/gp8yXXK6" target="_blank">🔗 View post</a>
+  </div>
+</div>
+
+
+
+
+
 
 <div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
   <p style="margin: 0;">
