@@ -24,8 +24,8 @@ My research journey has taken me through Australia (PhD, Australian National Uni
 - ANU Zero-Carbon Energy for the Asia-Pacific Grand Challenge Best Researcher Award (2023)
 - ANU College of Engineering & Computer Science Remote Teaching and Student Experience Award (2021)
 - ANU Grand Challenge Research Fellow (2018–2023)
-- Eureka Prize for Environmental Research (2018) with Andrew Blakers and Matthew Stocks
 - Australian Centre for Advanced Photovoltaics Postdoctoral Fellowship (2019–2022)
+- Eureka Prize for Environmental Research (2018) with Andrew Blakers and Matthew Stocks
 - Australian Government Research Training Program Scholarship (2017–2018)
 - Australian Postgraduate Award (2016)
 - ANU Postgraduate Research Scholarship (2016–2018)
