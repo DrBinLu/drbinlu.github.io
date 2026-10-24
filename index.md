@@ -94,23 +94,6 @@ title: Turning Science into Stories
 
 
 
-<div style="margin-bottom: 1.5em; padding: 1em; border: 1px solid #cce0ee; border-radius: 10px; background: #eef6fb;">
-  <p style="margin: 0;">
-
-    <strong>Good news! Our project, Integrated Renewable Energy Prospectivity Mapping for Indigenous Energy Planning, has been awarded ICEDS Seed Funding.</strong><br>
-     <br>
-    Australia’s Indigenous estate covers more than half of the continent and contains significant renewable energy resources. This project will help bring together renewable resources, transmission, industry, and Indigenous interests to support Indigenous energy planning.<br>
-     <br>
-    Thanks to ANU Institute for Climate, Energy & Disaster Solutions for supporting this important project. I’m excited to be working with Brad Riley, Francis Markham, and many others across the Indigenous energy community!<br>
-    https://iceds.anu.edu.au/news-events/news/funding-boost-transdisciplinary-research-supporting-solutions-climate-change
-  </p>
-  <div style="display: flex; justify-content: space-between; font-style: italic; color: #555; margin-top: 0.5em;">
-    <span>Posted on 2 July 2026</span>
-    <a href="https://www.linkedin.com/posts/drbinlu_funding-to-boost-transdisciplinary-research-activity-7478315263646588928-FN6G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFn8nyEBlsXXJF-vs0miNa2IDylMBZgfysE" target="_blank">🔗 View post</a>
-  </div>
-</div>
-
-
 
 
 
